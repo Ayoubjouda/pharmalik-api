@@ -1,14 +1,10 @@
 import { Injectable } from '@nestjs/common';
-import { PrismaService } from './prisma/prisma.service';
 import { HttpService } from '@nestjs/axios';
 // import { Cron } from '@nestjs/schedule';
 
 @Injectable()
 export class AppService {
-  constructor(
-    private prisma: PrismaService,
-    private readonly httpService: HttpService,
-  ) {}
+  constructor(private readonly httpService: HttpService) {}
   // private readonly logger = new Logger(AppService.name);
   // @Cron('* * * * * *')
   // handleCron() {
