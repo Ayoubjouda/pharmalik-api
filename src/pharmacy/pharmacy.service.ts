@@ -45,7 +45,7 @@ export class PharmacyService {
     try {
       //otherwise, you'll have an 'unauthorized' error.
       const resp = await fetch(
-        `http://141.145.200.78:8080/ors/v2/directions/driving-car?start=${start}&end=${dest}`,
+        `http://ors-app:8080/ors/v2/directions/driving-car?start=${start}&end=${dest}`,
       );
       if (!resp.ok) {
         throw new Error('Something went wrong');
