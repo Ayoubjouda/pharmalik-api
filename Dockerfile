@@ -15,10 +15,9 @@ COPY . .
 RUN npm run build 
 
 
-ENV PORT=4444
 
 # Expose the desired port for the server
-EXPOSE 4444
+EXPOSE 8001
 
 # Set the command to start both server and client
 CMD ["npm", "run", "start:prod"]

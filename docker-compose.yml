@@ -9,6 +9,6 @@ services:
     build: .
     restart: on-failure
     ports:
-      - 4444:4444
+      - 8001:8001
     networks:
       - mynetwork
