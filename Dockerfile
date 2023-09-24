@@ -15,6 +15,7 @@ COPY . .
 RUN npm run build 
 
 
+ENV PORT=8001
 
 # Expose the desired port for the server
 EXPOSE 8001
