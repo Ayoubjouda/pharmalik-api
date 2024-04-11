@@ -1,0 +1,3395 @@
+[
+    {
+        "name": "Pharmacie Lissane Eddine",
+        "quartier": "Sidi bernoussiCasablanca",
+        "status": "garde 24h",
+        "address": "69 X hay El Qods (Sidi Bernoussi) grp. Albaida Casablanca",
+        "coordinates": "33.61770300,-7.48852200",
+        "ville": "Casablanca",
+        "telephone": "0522 74 07 40"
+    },
+    {
+        "name": "Pharmacie ElMorakab Ettakafi",
+        "quartier": "Hay mohammadiCasablanca",
+        "status": "nuit",
+        "address": "derb Amal rue 6 n°74 H.M Hay Mohammadi CASABLANCA",
+        "coordinates": "33.53329849,-7.58333015",
+        "ville": "CASABLANCA",
+        "telephone": "0522 63 02 46"
+    },
+    {
+        "name": "Pharmacie Dar Alidâa",
+        "quartier": "Ain chockCasablanca",
+        "status": "nuit",
+        "address": "hay El Osra rue 50 n°161 Casablanca",
+        "coordinates": "33.53571021,-7.57991654",
+        "ville": "Casablanca",
+        "telephone": "0522 50 32 33"
+    },
+    {
+        "name": "Grande Pharmacie Normale",
+        "quartier": "Ville et bourgogne et maarifCasablanca",
+        "status": "garde 24h",
+        "address": "39 bd Mohammed V Aïn Chok Casablanca",
+        "coordinates": "33.59540000,-7.61613000",
+        "ville": "Casablanca",
+        "telephone": "0522 26 54 75"
+    },
+    {
+        "name": "Pharmacie Nassim Islane",
+        "quartier": "LissasfaCasablanca",
+        "status": "nuit",
+        "address": "318, hay Nassim, Islane Casablanca",
+        "coordinates": "33.59510040,-7.61878014",
+        "ville": "Casablanca",
+        "telephone": "0522 93 85 98"
+    },
+    {
+        "name": "Pharmacie Nejma",
+        "quartier": "Hay hassani et el oulfaCasablanca",
+        "status": "garde 24h",
+        "address": "derb Nejma bloc 415 n°902 Farah 1 Casablanca",
+        "coordinates": "33.57454958,-7.67641974",
+        "ville": "Casablanca",
+        "telephone": "0522 89 54 35"
+    },
+    {
+        "name": "Pharmacie AlMotahida",
+        "quartier": "Hay hassani et el oulfaCasablanca",
+        "status": "garde 24h",
+        "address": "hay El Oulfa lot. Sidi Abderrhman rue 36 n°31 Casablanca",
+        "coordinates": "33.54810342,-7.67930922",
+        "ville": "Casablanca",
+        "telephone": "0522 89 56 06"
+    },
+    {
+        "name": "Pharmacie Alouati",
+        "quartier": "Hay mohammadiCasablanca",
+        "status": "nuit",
+        "address": "bd du Fouarat lot.16 Capeluto rue 1 Casablanca",
+        "coordinates": "33.58079240,-7.55675379",
+        "ville": "Casablanca",
+        "telephone": "0522 60 16 75"
+    },
+    {
+        "name": "Pharmacie Nour Al Mostakbal",
+        "quartier": "Sidi maaroufCasablanca",
+        "status": "garde 24h",
+        "address": "lotiss. Al Moustakbal GH49 imm.3A 445 n°3 Casablanca",
+        "coordinates": "33.52570025,-7.64506983",
+        "ville": "Casablanca",
+        "telephone": "0522 33 51 91"
+    },
+    {
+        "name": "Pharmacie AlAtfal",
+        "quartier": "Hay hassani et el oulfaCasablanca",
+        "status": "nuit",
+        "address": "31 lotiss. Moulay Thami bd HH 24 Casablanca",
+        "coordinates": "33.55265469,-7.68976215",
+        "ville": "Casablanca",
+        "telephone": "0522 91 05 98"
+    },
+    {
+        "name": "Pharmacie la Porte d'Anassi",
+        "quartier": "AnassiCasablanca",
+        "status": "nuit",
+        "address": "lot. Anassi 1C M1 Bis 25 Ahl Loghlam Casablanca",
+        "coordinates": "33.58690000,-7.50148000",
+        "ville": "Casablanca",
+        "telephone": "0522 76 85 58"
+    },
+    {
+        "name": "Pharmacie le Projet",
+        "quartier": "Hay mohammadiCasablanca",
+        "status": "nuit",
+        "address": "rue Mostachfa Mohammed V projet Hassan II bloc 11 n°61-62 Casablanca",
+        "coordinates": "33.58745241,-7.55546232",
+        "ville": "Casablanca",
+        "telephone": "0522 62 80 20"
+    },
+    {
+        "name": "Pharmacie Cité des Cheminots",
+        "quartier": "Belvedere et roches noiresCasablanca",
+        "status": "nuit",
+        "address": "rue Echcharif Idrissi cité o.n.c.f bloc 2 n°1 Casablanca",
+        "coordinates": "33.59971552,-7.56420475",
+        "ville": "Casablanca",
+        "telephone": "0522 40 03 96"
+    },
+    {
+        "name": "Pharmacie hay Makam",
+        "quartier": "Hay mohammadiCasablanca",
+        "status": "nuit",
+        "address": "quartier Aïn Borja, hay makam n°117. Casablanca",
+        "coordinates": "33.59510040,-7.61878014",
+        "ville": "Casablanca",
+        "telephone": "0522 63 87 87"
+    },
+    {
+        "name": "Pharmacie Panorama",
+        "quartier": "Alazhar panoramaCasablanca",
+        "status": "nuit",
+        "address": "cité Sidi Bernoussi Panorama Tranche 4 bloc 6 Casablanca",
+        "coordinates": "33.59935596,-7.49169333",
+        "ville": "Casablanca",
+        "telephone": "0522 76 71 57"
+    },
+    {
+        "name": "Pharmacie Missimi",
+        "quartier": "Hay hassani et el oulfaCasablanca",
+        "status": "nuit",
+        "address": "hay Missimi (hay Hassani) rue12 ang. rue 24 n°1 Casablanca",
+        "coordinates": "33.56354722222,-7.67477500",
+        "ville": "Casablanca",
+        "telephone": "0522 90 05 29"
+    },
+    {
+        "name": "Pharmacie Eden",
+        "quartier": "Ville et bourgogne et maarifCasablanca",
+        "status": "nuit",
+        "address": "13 rue Jaafar Ibn Habib (Bourgogne) Casablanca",
+        "coordinates": "33.59670000,-7.64392000",
+        "ville": "Casablanca",
+        "telephone": "0522 49 28 79"
+    },
+    {
+        "name": "Pharmacie Omariya",
+        "quartier": "Aïn chockCasablanca",
+        "status": "garde 24h",
+        "address": "lot. Omariya Mosquée Omariya rue 49 Casablanca",
+        "coordinates": "33.53353060,-7.60818844",
+        "ville": "Casablanca",
+        "telephone": "0522 52 36 29"
+    },
+    {
+        "name": "Pharmacie Nouvelle Ere",
+        "quartier": "Ville et bourgogne et maarifCasablanca",
+        "status": "nuit",
+        "address": "rue Choukri Mustapha Petchou bloc 15 n°1 Casablanca",
+        "coordinates": "33.58467146,-7.64856184",
+        "ville": "Casablanca",
+        "telephone": "0522 94 53 47"
+    },
+    {
+        "name": "Pharmacie AlOukhoua",
+        "quartier": "Sidi maaroufCasablanca",
+        "status": "garde 24h",
+        "address": "88 lotiss. Rakia Ct rte 1100 lot \"G\" Casablanca",
+        "coordinates": "33.51363552,-7.64373544",
+        "ville": "Casablanca",
+        "telephone": "0522 32 12 40"
+    },
+    {
+        "name": "Pharmacie Jacaranda",
+        "quartier": "Aïn sebaâCasablanca",
+        "status": "garde 24h",
+        "address": "1 X rue El Gara (Oukacha) bd. Mly Slimane Casablanca",
+        "coordinates": "33.60980000,-7.56486000",
+        "ville": "Casablanca",
+        "telephone": "0522 67 30 06"
+    },
+    {
+        "name": "Pharmacie Sidi Soufi",
+        "quartier": "Ville et bourgogne et maarifCasablanca",
+        "status": "nuit",
+        "address": "171 rue Boukraa -ex Jules Mauran Hassan Casablanca",
+        "coordinates": "33.60230211,-7.63137787",
+        "ville": "Casablanca",
+        "telephone": "0522 27 02 96"
+    },
+    {
+        "name": "Pharmacie la Villette",
+        "quartier": "Hay mohammadiCasablanca",
+        "status": "nuit",
+        "address": "23 rue Abou Bakr El Wahrani Casablanca",
+        "coordinates": "33.59046769,-7.58002001",
+        "ville": "Casablanca",
+        "telephone": "0522 61 32 13"
+    },
+    {
+        "name": "Pharmacie Cosmos",
+        "quartier": "Sidi othmane et mly rachidCasablanca",
+        "status": "garde 24h",
+        "address": "hay El Falah rue 1 n° 86 Casablanca",
+        "coordinates": "33.56111565,-7.54992180",
+        "ville": "Casablanca",
+        "telephone": "0522 70 46 55"
+    },
+    {
+        "name": "Pharmacie Lamia",
+        "quartier": "Hay mohammadiCasablanca",
+        "status": "nuit",
+        "address": "lot. Lamia (bd Fouarat), bloc 10 n°7 Casablanca",
+        "coordinates": "33.59510040,-7.61878014",
+        "ville": "Casablanca",
+        "telephone": "0522 60 46 30"
+    },
+    {
+        "name": "Pharmacie Habiba",
+        "quartier": "LissasfaCasablanca",
+        "status": "nuit",
+        "address": "275, bd Jabal Toubkal (Lissasfa), Extension Casablanca",
+        "coordinates": "33.59510040,-7.61878014",
+        "ville": "Casablanca",
+        "telephone": "0522 65 03 48"
+    },
+    {
+        "name": "Pharmacie Anoual",
+        "quartier": "Ville et bourgogne et maarifCasablanca",
+        "status": "garde 24h",
+        "address": "allée du Lion ang.bd. Anoual Casablanca",
+        "coordinates": "33.56899600,-7.61768600",
+        "ville": "Casablanca",
+        "telephone": "0522 86 11 20"
+    },
+    {
+        "name": "Pharmacie Douae Essalama",
+        "quartier": "Sidi othmane et mly rachidCasablanca",
+        "status": "nuit",
+        "address": "hay Salama III grp. 1 bloc J n°12 Casablanca",
+        "coordinates": "33.55946080,-7.56078241",
+        "ville": "Casablanca",
+        "telephone": "0522 37 29 48"
+    },
+    {
+        "name": "Pharmacie Tissir II",
+        "quartier": "Hay MohammadiCasablanca",
+        "status": "nuit",
+        "address": "Lot N° 169, Boulevard de la grande ceinture Hay Tissir 2 Casablanca",
+        "coordinates": "33.59510040,-7.61878014",
+        "ville": "Casablanca",
+        "telephone": "0522 62 67 01"
+    },
+    {
+        "name": "Pharmacie Ayour",
+        "quartier": "Sidi moumenCasablanca",
+        "status": "nuit",
+        "address": "54 rue Lhoussine Assoussi (Sidi Moumen) lot Annasr Yamna Casablanca",
+        "coordinates": "33.58160000,-7.53573000",
+        "ville": "Casablanca",
+        "telephone": "0522 72 62 50"
+    },
+    {
+        "name": "Pharmacie Ghouziel",
+        "quartier": "Aïn sebaâCasablanca",
+        "status": "nuit",
+        "address": "253, allée des Mimosas (Aïn Sebâa) Casablanca",
+        "coordinates": "33.60411150,-7.52825790",
+        "ville": "Casablanca",
+        "telephone": "0522 67 46 67"
+    },
+    {
+        "name": "Pharmacie Ibn Sina",
+        "quartier": "hay MohammadiCasablanca",
+        "status": "nuit",
+        "address": "319 bd. Chouhada (hay Mohammadi) bloc 15 Casablanca",
+        "coordinates": "33.58919037,-7.56778419",
+        "ville": "Casablanca",
+        "telephone": "0522 62 07 31"
+    },
+    {
+        "name": "Pharmacie des Prêles",
+        "quartier": "Ville Bourgogne MaarifCasablanca",
+        "status": "nuit",
+        "address": "18 rue Brahim Nakhai - ex Mont Cinto Casablanca",
+        "coordinates": "33.57770000,-7.63940000",
+        "ville": "Casablanca",
+        "telephone": "0522 23 40 33"
+    },
+    {
+        "name": "Pharmacie de l'Union",
+        "quartier": "El fida et mers sultanCasablanca",
+        "status": "garde 24h",
+        "address": "6 bd Abdellah Senhaji - ex C lotiss. Amal Casablanca",
+        "coordinates": "33.55660000,-7.58768000",
+        "ville": "Casablanca",
+        "telephone": "0522 28 86 77"
+    },
+    {
+        "name": "Pharmacie de la Santé",
+        "quartier": "Sidi moumenCasablanca",
+        "status": "nuit",
+        "address": "Hay Walaa Lot Attacharouk imm.8 n°2 tranche 7 Casablanca",
+        "coordinates": "33.57129271,-7.52159533",
+        "ville": "Casablanca",
+        "telephone": "0522 71 73 25"
+    },
+    {
+        "name": "Pharmacie Souad",
+        "quartier": "Sidi bernoussiCasablanca",
+        "status": "nuit",
+        "address": "cité Sidi Bernoussi bloc 106 n°7 bis Casablanca",
+        "coordinates": "33.61013698,-7.50381691",
+        "ville": "Casablanca",
+        "telephone": "0522 73 93 94"
+    },
+    {
+        "name": "Pharmacie ElIrfane",
+        "quartier": "Sidi othmane et mly rachidCasablanca",
+        "status": "nuit",
+        "address": "hay Moulay Rachid (Ben M'Sik) grp. 6 rue T n°8 Casablanca",
+        "coordinates": "33.57126365,-7.52917526",
+        "ville": "Casablanca",
+        "telephone": "0522 72 64 41"
+    },
+    {
+        "name": "Pharmacie Asafar",
+        "quartier": "Hay Dar EsaadaMarrakech",
+        "status": "nuit",
+        "address": "Résidence Dar Saâda extension Bd. Allal Fassi à côté de la BMCE et la Maison Peugeot Citroen Marrakech",
+        "coordinates": "31.62579918,-7.98916006",
+        "ville": "Marrakech",
+        "telephone": "0524 29 19 90"
+    },
+    {
+        "name": "Pharmacie Zohour",
+        "quartier": "AÏn IttiMarrakech",
+        "status": "nuit",
+        "address": "Quartier Ain Itti résid. Zohour imm. 173 n°62 MARRAKECH",
+        "coordinates": "31.64268333333,-7.98270000",
+        "ville": "MARRAKECH",
+        "telephone": "0524 32 83 42"
+    },
+    {
+        "name": "Pharmacie Borj Targa",
+        "quartier": "TargaMarrakech",
+        "status": "nuit",
+        "address": "rte de Souihla Targa MARRAKECH",
+        "coordinates": "31.65206666667,-8.061816666667",
+        "ville": "MARRAKECH",
+        "telephone": "0524 34 34 60"
+    },
+    {
+        "name": "Pharmacie ElAhd ElJadid",
+        "quartier": "hay HassaniMarrakech",
+        "status": "nuit",
+        "address": "2028 lotiss. Socoma I MARRAKECH",
+        "coordinates": "31.61448333333,-8.058616666667",
+        "ville": "MARRAKECH",
+        "telephone": "0524 49 52 65"
+    },
+    {
+        "name": "Pharmacie AlBahja",
+        "quartier": "hay HassaniMarrakech",
+        "status": "nuit",
+        "address": "453 bd El Midani q. AlBahja douar Laaskar Marrakech",
+        "coordinates": "31.63316666667,-8.044866666667",
+        "ville": "Marrakech",
+        "telephone": "0524 34 53 00"
+    },
+    {
+        "name": "Pharmacie Baghdad",
+        "quartier": "Sidi YoussefMarrakech",
+        "status": "nuit",
+        "address": "133 Derb Jamaâ Lakbir (Syba) MARRAKECH",
+        "coordinates": "31.62126187,-7.96863441",
+        "ville": "MARRAKECH",
+        "telephone": "0524 40 66 68"
+    },
+    {
+        "name": "Pharmacie Abihafs",
+        "quartier": "Hay HassaniMarrakech",
+        "status": "nuit",
+        "address": "Les Portes de Marrakech Addoha, sur la route d'Essaouira tournez à droite à 40m, à côté du Groupe Sc",
+        "coordinates": "31.63080025,-8.04471970",
+        "ville": "Marrakech",
+        "telephone": "0524 01 78 96"
+    },
+    {
+        "name": "Pharmacie de Marrakech",
+        "quartier": "MedinaMarrakech",
+        "status": "nuit",
+        "address": "374 bd Fatima Zahra Bab Doukkala Marrakech",
+        "coordinates": "31.62596666667,-7.993166666667",
+        "ville": "Marrakech",
+        "telephone": "0524 37 51 33"
+    },
+    {
+        "name": "Pharmacie M Avenue",
+        "quartier": "Grand GuelizMarrakech",
+        "status": "nuit",
+        "address": "2 bd de la Ménara - Autre ville Marrakech",
+        "coordinates": "31.61986500,-8.02067100",
+        "ville": "Marrakech",
+        "telephone": "0524 44 61 58"
+    },
+    {
+        "name": "Pharmacie Rayyane",
+        "quartier": "Sidi Ghanem AzzouziaMarrakech",
+        "status": "nuit",
+        "address": "522 lotiss. Al Massar I MARRAKECH",
+        "coordinates": "31.67463333333,-8.04035000",
+        "ville": "MARRAKECH",
+        "telephone": "0524 33 50 89"
+    },
+    {
+        "name": "Pharmacie Nassir",
+        "quartier": "Sidi YoussefMarrakech",
+        "status": "nuit",
+        "address": "227 X lotiss. Nakhil bloc 9 n°227 Sidi Youssef Ben Ali MARRAKECH",
+        "coordinates": "31.60993717,-7.95753543",
+        "ville": "MARRAKECH",
+        "telephone": "0524 40 66 88"
+    },
+    {
+        "name": "Pharmacie ElMazani",
+        "quartier": "LamhamidMarrakech",
+        "status": "nuit",
+        "address": "Hay M'hamid 9 grp. Adoha MARRAKECH",
+        "coordinates": "31.57310524,-8.05608783",
+        "ville": "MARRAKECH",
+        "telephone": "0524 37 11 44"
+    },
+    {
+        "name": "Pharmacie Al Badre",
+        "quartier": "LamhamidMarrakech",
+        "status": "nuit",
+        "address": "985 Hay M'hamid 2 MARRAKECH",
+        "coordinates": "31.59160000,-8.043233333333",
+        "ville": "MARRAKECH",
+        "telephone": "0524 37 20 24"
+    },
+    {
+        "name": "Pharmacie El Housna",
+        "quartier": "LamhamidMarrakech",
+        "status": "nuit",
+        "address": "767, Lot. El Housna II, en face Lot. Ouirgane et à côté Arrondissement Askadjour Marrakech",
+        "coordinates": "31.61759949,-7.97060013",
+        "ville": "Marrakech",
+        "telephone": "0524 36 08 30"
+    },
+    {
+        "name": "Pharmacie Al Amana",
+        "quartier": "Nakhil SudMarrakech",
+        "status": "nuit",
+        "address": "78, douar ouled el garne rte ait ourir marrakech",
+        "coordinates": "31.63440359,-7.92054428",
+        "ville": "Marrakech",
+        "telephone": "0524 32 83 28"
+    },
+    {
+        "name": "Pharmacie Bennouna",
+        "quartier": "DaoudiatMarrakech",
+        "status": "nuit",
+        "address": "283 lotiss. Belbekar II hay Mohammadi MARRAKECH",
+        "coordinates": "31.65945145,-7.98861955",
+        "ville": "MARRAKECH",
+        "telephone": "0524 30 25 82"
+    },
+    {
+        "name": "Pharmacie Mouzdalifa",
+        "quartier": "DaoudiatMarrakech",
+        "status": "nuit",
+        "address": "Bd. Mouzdalifa Sinko Im. Derraz à côté Lycée Sahnoun, à 200m de CNSS et à 100m de patisserie Le Vôtr Marrakech",
+        "coordinates": "31.62579918,-7.98916006",
+        "ville": "Marrakech",
+        "telephone": "0524 33 23 46"
+    },
+    {
+        "name": "Pharmacie Belkziz",
+        "quartier": "Hay HassaniMarrakech",
+        "status": "nuit",
+        "address": "5 hay El Bahja Marrakech",
+        "coordinates": "31.63500000,-8.04610000",
+        "ville": "Marrakech",
+        "telephone": "0524 49 21 04"
+    },
+    {
+        "name": "Pharmacie Soufiane",
+        "quartier": "Hay HassaniMarrakech",
+        "status": "nuit",
+        "address": "652 hay Youssef Ibn Tachfine z.i. Azli MARRAKECH",
+        "coordinates": "31.61771666667,-8.04845000",
+        "ville": "MARRAKECH",
+        "telephone": "0524 49 36 88"
+    },
+    {
+        "name": "Pharmacie Centrale AlIzdihar",
+        "quartier": "hay Al IzdiharMarrakech",
+        "status": "nuit",
+        "address": "332 lotiss. Al Izdihar I rte Safi Marrakech",
+        "coordinates": "31.66615310,-8.03217996",
+        "ville": "Marrakech",
+        "telephone": "0524 33 54 56"
+    },
+    {
+        "name": "Pharmacie Les Orangers",
+        "quartier": "TargaMarrakech",
+        "status": "nuit",
+        "address": "60 lotiss. Lalla Hayya Targa Marrakech",
+        "coordinates": "31.65192164,-8.04762546",
+        "ville": "Marrakech",
+        "telephone": "0524 34 38 88"
+    },
+    {
+        "name": "Pharmacie Hay Mabrouka",
+        "quartier": "Grand GuelizMarrakech",
+        "status": "nuit",
+        "address": "1, Résidence Taif 1, à côté de l'agence Banque Populaire Hay Mabrouka Marrakech",
+        "coordinates": "31.63220024,-8.01080990",
+        "ville": "Marrakech",
+        "telephone": "0524 42 31 77"
+    },
+    {
+        "name": "Pharmacie les Jardins de Majorelle Ex- Zahia",
+        "quartier": "Grand GuelizMarrakech",
+        "status": "nuit",
+        "address": "39 bd Prince Moulay Abdallah Marrakech",
+        "coordinates": "31.64190000,-8.00475000",
+        "ville": "Marrakech",
+        "telephone": "0524 30 12 11"
+    },
+    {
+        "name": "Pharmacie Razi",
+        "quartier": "DaoudiatMarrakech",
+        "status": "nuit",
+        "address": "398, unité 2 hay mohamadi en face boulangerie takadoum et près station taxi de sidi youssef (daoudiate) Marrakech",
+        "coordinates": "31.6534229,-7.9949436",
+        "ville": "Marrakech",
+        "telephone": "0524 31 46 00"
+    },
+    {
+        "name": "Pharmacie Targa Place",
+        "quartier": "Hay HassaniMarrakech",
+        "status": "nuit",
+        "address": "4 rte de Targa - Autre ville Annexe Inara Ript Nour Marrakech",
+        "coordinates": "31.64298600,-8.05860300",
+        "ville": "Marrakech",
+        "telephone": "0525 25 07 50"
+    },
+    {
+        "name": "Pharmacie Ibn Al Aouam",
+        "quartier": "Hay HassaniMarrakech",
+        "status": "nuit",
+        "address": "imm. al ahbass al massira 1 en face de cosmos et à côté du bon coin Marrakech",
+        "coordinates": "31.62679475,-8.00302426",
+        "ville": "Marrakech",
+        "telephone": "0525 06 13 42"
+    },
+    {
+        "name": "Pharmacie Tallaght",
+        "quartier": "Nakhil SudMarrakech",
+        "status": "nuit",
+        "address": "hay Annakhil n°144 sud Syba Sidi Youssef ben Ali Marrakech",
+        "coordinates": "31.62513300,-7.93463900",
+        "ville": "Marrakech",
+        "telephone": "0524 40 30 11"
+    },
+    {
+        "name": "Pharmacie Mizaj",
+        "quartier": "Sidi Ghanem AzzouziaMarrakech",
+        "status": "nuit",
+        "address": "22 lotiss. Al Massar - Autre ville Marrakech",
+        "coordinates": "31.67602000,-8.03777500",
+        "ville": "Marrakech",
+        "telephone": "0524 33 67 62"
+    },
+    {
+        "name": "Pharmacie Zaouia ElAbbassia",
+        "quartier": "MedinaMarrakech",
+        "status": "nuit",
+        "address": "2 Derb Zaouia El Abbassia Derb Najem MARRAKECH",
+        "coordinates": "31.62461666667,-7.989866666667",
+        "ville": "MARRAKECH",
+        "telephone": "0524 38 23 11"
+    },
+    {
+        "name": "Pharmacie Du Kawkab",
+        "quartier": "Grand GuelizMarrakech",
+        "status": "nuit",
+        "address": "36 bd Moulay Hassan Kawkab Center MARRAKECH",
+        "coordinates": "31.62893333333,-8.007633333333",
+        "ville": "MARRAKECH",
+        "telephone": "0524 44 80 77"
+    },
+    {
+        "name": "Pharmacie Salma",
+        "quartier": "LamhamidMarrakech",
+        "status": "nuit",
+        "address": "Lot. Zerktouni Bouâkkaz 1436, à côté de l'Ecole Assabila et l'Academie Taher Lakhlaj M'hamid Marrakech",
+        "coordinates": "31.62579918,-7.98916006",
+        "ville": "Marrakech",
+        "telephone": "0524 37 22 47"
+    },
+    {
+        "name": " Pharmacie Nour Targa",
+        "quartier": "Sidi Ghanem AzzouziaMarrakech",
+        "status": "nuit",
+        "address": "17 rte de Targa - Autre ville imm. Zynaya Zdoughia Marrakech",
+        "coordinates": "31.67335200,-8.05206900",
+        "ville": "Marrakech",
+        "telephone": "0525 35 14 35"
+    },
+    {
+        "name": "Pharmacie Moderne",
+        "quartier": "Grand GuelizMarrakech",
+        "status": "nuit",
+        "address": "Angle Av. Mohamed V et rue Mohamed El Baqual, entre Librairie Chater et Armel Marrakech",
+        "coordinates": "31.63220024,-8.01080990",
+        "ville": "Marrakech",
+        "telephone": "0524 43 43 49"
+    },
+    {
+        "name": "Pharmacie Bidaya",
+        "quartier": "DaoudiatMarrakech",
+        "status": "nuit",
+        "address": "2, lot. razi en face fac des lettres et près de la fac de droit amerchich derrière c.h.u mohamed vi Marrakech",
+        "coordinates": "31.6650866,-7.9976392",
+        "ville": "Marrakech",
+        "telephone": "0524 33 28 02"
+    },
+    {
+        "name": "Pharmacie Qaryia Syahyia",
+        "quartier": "AÏn IttiMarrakech",
+        "status": "nuit",
+        "address": "3 Al Qaria Assiyahia rte bab Lakhmis Nakhil sud Ain Itti Marrakech",
+        "coordinates": "31.63970000,-7.979416666667",
+        "ville": "Marrakech",
+        "telephone": "0524 30 65 47"
+    },
+    {
+        "name": "Pharmacie Alkasbah",
+        "quartier": "MedinaMarrakech",
+        "status": "nuit",
+        "address": "33 rue Sehrij Gnaoua Kasbah MARRAKECH",
+        "coordinates": "31.61631666667,-7.98900000",
+        "ville": "MARRAKECH",
+        "telephone": "0524 37 67 78"
+    },
+    {
+        "name": "Pharmacie Borj Ennakhil",
+        "quartier": "AÏn IttiMarrakech",
+        "status": "nuit",
+        "address": "Route de Fès \" Nakhla al 3ouja \" Entrée Tamsna en face du Jnane Lkbir Marrakech",
+        "coordinates": "31.64699936,-7.98200989",
+        "ville": "Marrakech",
+        "telephone": "0524 32 97 89"
+    },
+    {
+        "name": "Pharmacie Chater",
+        "quartier": "MedinaMarrakech",
+        "status": "nuit",
+        "address": "51 Arsat El Bardi Jadida Médina MARRAKECH",
+        "coordinates": "31.61981666667,-7.990366666667",
+        "ville": "MARRAKECH",
+        "telephone": "0524 37 64 44"
+    },
+    {
+        "name": "Pharmacie ElHabib",
+        "quartier": "LamhamidMarrakech",
+        "status": "nuit",
+        "address": "Hay M'hamid Lakdim bloc. n°12 bis MARRAKECH",
+        "coordinates": "31.58953333333,-8.036433333333",
+        "ville": "MARRAKECH",
+        "telephone": "0524 36 02 56"
+    },
+    {
+        "name": "Pharmacie Awatif",
+        "quartier": "DaoudiatMarrakech",
+        "status": "nuit",
+        "address": "Lot. Awatif Imm. A 1 Assif, près de l'école El Bachir et Mosquée Awatif Marrakech",
+        "coordinates": "31.62579918,-7.98916006",
+        "ville": "Marrakech",
+        "telephone": "0524 33 12 93"
+    },
+    {
+        "name": "Pharmacie Zhor",
+        "quartier": "Les Amicales IhchechAgadir",
+        "status": "garde 24h",
+        "address": "4 bis, bd moulay youssef, bloc 10 ihchach c.p.h, a coté du collège prince héritier Agadir",
+        "coordinates": "30.42111440,-9.58306260",
+        "ville": "Agadir",
+        "telephone": "0528 84 37 78"
+    },
+    {
+        "name": "Pharmacie Sara",
+        "quartier": "Salam Houda BensergaoAgadir",
+        "status": "garde 24h",
+        "address": "hay al houda bloc h n°299 Agadir",
+        "coordinates": "30.42111440,-9.58306260",
+        "ville": "Agadir",
+        "telephone": "0528 32 08 73"
+    },
+    {
+        "name": "Pharmacie Iqbal",
+        "quartier": "Lakhyam Erac BouarganeAgadir",
+        "status": "garde 24h",
+        "address": "bd mohamed iqbal, a coté de hamam amsernat Agadir",
+        "coordinates": "30.42111440,-9.58306260",
+        "ville": "Agadir",
+        "telephone": "0525 20 03 70"
+    },
+    {
+        "name": "Pharmacie Majd",
+        "quartier": "Adrar TililaAgadir",
+        "status": "garde 24h",
+        "address": "lotiss. tilila, n°3358, avenue tagmat, derrière attijari wafa bank AGADIR",
+        "coordinates": "30.41670036,-9.60000038",
+        "ville": "AGADIR",
+        "telephone": "0528 28 89 89"
+    },
+    {
+        "name": "Pharmacie Bensergao",
+        "quartier": "BensergaoAgadir",
+        "status": "garde 24h",
+        "address": "50, hay bensergao, bloc 1, rte principale, en face salle des fêtes al firdaous Agadir",
+        "coordinates": "30.42111440,-9.58306260",
+        "ville": "Agadir",
+        "telephone": "0528 28 06 77"
+    },
+    {
+        "name": "Pharmacie El Mghari",
+        "quartier": "DakhlaAgadir",
+        "status": "garde 24h",
+        "address": "5, bd hassan 1er imm. alwifaq, cité dakhla Agadir",
+        "coordinates": "30.42111440,-9.58306260",
+        "ville": "Agadir",
+        "telephone": "0528 23 97 64"
+    },
+    {
+        "name": "Pharmacie Anza",
+        "quartier": "AnzaAgadir",
+        "status": "garde 24h",
+        "address": "bloc c numéro 4 anza AGADIR",
+        "coordinates": "30.41670036,-9.60000038",
+        "ville": "AGADIR",
+        "telephone": "0528 20 48 66"
+    },
+    {
+        "name": "Pharmacie Odessa",
+        "quartier": "Salam Houda BensergaoAgadir",
+        "status": "garde 24h",
+        "address": "hay essalam, résid. tarik al kheir 1, imm. 2, mag. 4, près de jet sakane 1 Agadir",
+        "coordinates": "30.42111440,-9.58306260",
+        "ville": "Agadir",
+        "telephone": "0528 28 28 82"
+    },
+    {
+        "name": "Pharmacie Reda",
+        "quartier": "Hay MohammadiAgadir",
+        "status": "garde 24h",
+        "address": "512, hay mohammadi, hay abaraz, près du rondpoint ait almouden Agadir",
+        "coordinates": "30.42111440,-9.58306260",
+        "ville": "Agadir",
+        "telephone": "0528 22 22 30"
+    },
+    {
+        "name": "Pharmacie 20 Aout",
+        "quartier": "Lakhyam Erac BouarganeAgadir",
+        "status": "garde 24h",
+        "address": "180 bd imam el boukhari erac bouargane AGADIR",
+        "coordinates": "30.41670036,-9.60000038",
+        "ville": "AGADIR",
+        "telephone": "0528 23 32 79"
+    },
+    {
+        "name": "Pharmacie du soleil",
+        "quartier": "TalborjtAgadir",
+        "status": "garde 24h",
+        "address": "bd john kennedy talborjt AGADIR",
+        "coordinates": "30.41670036,-9.60000038",
+        "ville": "AGADIR",
+        "telephone": "0528 84 80 04"
+    },
+    {
+        "name": "Pharmacie Lolita",
+        "quartier": "TaddartAgadir",
+        "status": "garde 24h",
+        "address": "735 lot anza bloc c, taddart Agadir",
+        "coordinates": "30.42111440,-9.58306260",
+        "ville": "Agadir",
+        "telephone": "0808 56 56 69"
+    },
+    {
+        "name": " Pharmacie Zenith",
+        "quartier": "Meknes",
+        "status": "garde 24h",
+        "address": "3 rue Chefchaouen - Autre ville ang. av. Baccharet imm.B Meknes",
+        "coordinates": "33.89549000,-5.52822900",
+        "ville": "Meknes",
+        "telephone": "0808 66 30 12"
+    },
+    {
+        "name": "Pharmacie Zerktouni",
+        "quartier": "Meknes",
+        "status": "nuit",
+        "address": "108 bd Mohamed Zerktouni - Autre ville hay Nasr Ouislane Meknes",
+        "coordinates": "33.91082900,-5.48005800",
+        "ville": "Meknes",
+        "telephone": "0535 54 90 44"
+    },
+    {
+        "name": "Pharmacie Belair",
+        "quartier": "Meknes",
+        "status": "nuit",
+        "address": "14 bd Allal El Fassi résid. Ibn Sina Meknes",
+        "coordinates": "33.88330078,-5.55000019",
+        "ville": "Meknes",
+        "telephone": "0535 51 28 07"
+    },
+    {
+        "name": "Pharmacie Bridia",
+        "quartier": "IsmailiaMeknes",
+        "status": "nuit",
+        "address": "hay al atlas, rue 13 n°59 zitoune Meknes",
+        "coordinates": "33.88330078,-5.55000019",
+        "ville": "Meknes",
+        "telephone": "0535 45 17 76"
+    },
+    {
+        "name": "Pharmacie 15 Mars",
+        "quartier": "Meknes",
+        "status": "nuit",
+        "address": "23 lotiss. Al Bassatine - Fathallah 3 Wislame Meknes",
+        "coordinates": "33.89680099,-5.53183985",
+        "ville": "Meknes",
+        "telephone": "0535 50 60 00"
+    },
+    {
+        "name": "Pharmacie Ibnou Bajaa",
+        "quartier": "Meknes",
+        "status": "nuit",
+        "address": "lotiss. Al Manar - Autre ville reisd Ibnou Rochd Meknes",
+        "coordinates": "33.91012000,-5.54019100",
+        "ville": "Meknes",
+        "telephone": "0535 51 63 83"
+    },
+    {
+        "name": "Pharmacie El Anouar",
+        "quartier": "Meknes",
+        "status": "nuit",
+        "address": "1364 hay Marjane 5 Sidi Bouzekri Meknes",
+        "coordinates": "33.86118617,-5.53452100",
+        "ville": "Meknes",
+        "telephone": "0535 45 07 47"
+    },
+    {
+        "name": "Pharmacie Rouamzine",
+        "quartier": "Meknes",
+        "status": "nuit",
+        "address": "79 rue Rouamzine MEKNES",
+        "coordinates": "33.88330078,-5.55000019",
+        "ville": "MEKNES",
+        "telephone": "0535 53 02 21"
+    },
+    {
+        "name": "Pharmacie Dar Achifae",
+        "quartier": "Meknes",
+        "status": "nuit",
+        "address": "1104 hay Al Bassatine 7 - lot 2 Meknes",
+        "coordinates": "33.89680099,-5.53183985",
+        "ville": "Meknes",
+        "telephone": "0535 50 16 60"
+    },
+    {
+        "name": "Pharmacie de Meknes",
+        "quartier": "Meknes",
+        "status": "garde 24h",
+        "address": "194 lotiss. Sahara 2 rte. Agourai Meknes",
+        "coordinates": "33.87783333333,-5.570166666667",
+        "ville": "Meknes",
+        "telephone": "0535 45 48 69"
+    },
+    {
+        "name": "Pharmacie Rawnak",
+        "quartier": "Meknes",
+        "status": "garde 24h",
+        "address": "45 rue Jamaleddine El Afghani résid. Al Andalous place d'armes Meknes",
+        "coordinates": "33.88330078,-5.55000019",
+        "ville": "Meknes",
+        "telephone": "0535 51 13 42"
+    },
+    {
+        "name": "Pharmacie Addoha Dkhissa",
+        "quartier": "Meknes",
+        "status": "garde 24h",
+        "address": "28, douar Zoualeth , Dkhissa Meknes",
+        "coordinates": "33.89781189,-5.53198338",
+        "ville": "Meknes",
+        "telephone": "0535 43 39 59"
+    },
+    {
+        "name": "Pharmacie Ait Ouallal",
+        "quartier": "Ain TaoujdateMeknes",
+        "status": "nuit",
+        "address": "Ait Oullal Cercle de Ain Taoujdate Meknes",
+        "coordinates": "33.93780600,-5.21458400",
+        "ville": "Meknes",
+        "telephone": "0535 44 16 65"
+    },
+    {
+        "name": "Pharmacie Fadilia",
+        "quartier": "Meknes",
+        "status": "garde 24h",
+        "address": "117 lotiss. Fadilia rte. Agourai Meknes",
+        "coordinates": "33.87850000,-5.578566666667",
+        "ville": "Meknes",
+        "telephone": "0535 46 95 09"
+    },
+    {
+        "name": "Pharmacie Jardin des Plantes",
+        "quartier": "Meknes",
+        "status": "garde 24h",
+        "address": "5 Jnane Kitane Meknes",
+        "coordinates": "33.89441740,-5.55542595",
+        "ville": "Meknes",
+        "telephone": "0642 05 14 29"
+    },
+    {
+        "name": "Pharmacie Al Inaya",
+        "quartier": "IsmailiaMeknes",
+        "status": "nuit",
+        "address": "hay oujah arous rue 16 n°333 Meknes",
+        "coordinates": "33.89680099,-5.53183985",
+        "ville": "Meknes",
+        "telephone": "0535 53 09 06"
+    },
+    {
+        "name": "Pharmacie Carre Sante Beaute",
+        "quartier": "Hay RiadRabat",
+        "status": "garde 24h",
+        "address": "avenue mehdi ben berka chaumiere 1 n°2 Rabat",
+        "coordinates": "34.02239990,-6.83453989",
+        "ville": "Rabat",
+        "telephone": "0537 71 71 27"
+    },
+    {
+        "name": "Pharmacie L'oasis",
+        "quartier": "AgdalRabat",
+        "status": "garde 24h",
+        "address": "8, avenue oqba ( a coté du 3ème arrondissement de police ) Rabat",
+        "coordinates": "34.02239990,-6.83453989",
+        "ville": "Rabat",
+        "telephone": "0537 68 25 03"
+    },
+    {
+        "name": "Pharmacie Du Croissant",
+        "quartier": "Akkari OceanRabat",
+        "status": "nuit",
+        "address": "200 avenue mohamed ben abdellah - akkari Rabat",
+        "coordinates": "34.02239990,-6.83453989",
+        "ville": "Rabat",
+        "telephone": "0537 69 04 23"
+    },
+    {
+        "name": "Pharmacie Mazhar",
+        "quartier": "Yacoub El MansourRabat",
+        "status": "garde 24h",
+        "address": "127 avenue al majd amal 3 c.y.m - Rabat",
+        "coordinates": "34.02239990,-6.83453989",
+        "ville": "Rabat",
+        "telephone": "0537 79 46 66"
+    },
+    {
+        "name": "Pharmacie Centrale",
+        "quartier": "Centre VilleRabat",
+        "status": "nuit",
+        "address": "n°113. angle bd mohammed bn lhassan et bd hassan2, immeuble 44a c4 Rabat",
+        "coordinates": "31.17280006,-7.33624983",
+        "ville": "Rabat",
+        "telephone": "0537 72 43 95"
+    },
+    {
+        "name": "Pharmacie Berbich",
+        "quartier": "Akkari Ocean OrangersRabat",
+        "status": "garde 24h",
+        "address": "12 bis, avenue  alghazali  quartier les orangers (en face du centre commercial les orangers) Rabat",
+        "coordinates": "34.01670074,-6.83333015",
+        "ville": "Rabat",
+        "telephone": "0537 26 07 72"
+    },
+    {
+        "name": "Pharmacie Bidaya",
+        "quartier": "DaoudiatMarrakech",
+        "status": "nuit",
+        "address": "2, lot. razi en face fac des lettres et près de la fac de droit amerchich derrière c.h.u mohamed vi Marrakech",
+        "coordinates": "31.6650866,-7.9976392",
+        "ville": "Marrakech",
+        "telephone": "0524 33 28 02"
+    },
+    {
+        "name": "Pharmacie Rayyane",
+        "quartier": "Sidi Ghanem AzzouziaMarrakech",
+        "status": "nuit",
+        "address": "522 lotiss. Al Massar I MARRAKECH",
+        "coordinates": "31.67463333333,-8.04035000",
+        "ville": "MARRAKECH",
+        "telephone": "0524 33 50 89"
+    },
+    {
+        "name": " Pharmacie Nour Targa",
+        "quartier": "Sidi Ghanem AzzouziaMarrakech",
+        "status": "nuit",
+        "address": "17 rte de Targa - Autre ville imm. Zynaya Zdoughia Marrakech",
+        "coordinates": "31.67335200,-8.05206900",
+        "ville": "Marrakech",
+        "telephone": "0525 35 14 35"
+    },
+    {
+        "name": "Pharmacie Asafar",
+        "quartier": "Hay Dar EsaadaMarrakech",
+        "status": "nuit",
+        "address": "Résidence Dar Saâda extension Bd. Allal Fassi à côté de la BMCE et la Maison Peugeot Citroen Marrakech",
+        "coordinates": "31.62579918,-7.98916006",
+        "ville": "Marrakech",
+        "telephone": "0524 29 19 90"
+    },
+    {
+        "name": "Pharmacie Hay Mabrouka",
+        "quartier": "Grand GuelizMarrakech",
+        "status": "nuit",
+        "address": "1, Résidence Taif 1, à côté de l'agence Banque Populaire Hay Mabrouka Marrakech",
+        "coordinates": "31.63220024,-8.01080990",
+        "ville": "Marrakech",
+        "telephone": "0524 42 31 77"
+    },
+    {
+        "name": "Pharmacie ElHabib",
+        "quartier": "LamhamidMarrakech",
+        "status": "nuit",
+        "address": "Hay M'hamid Lakdim bloc. n°12 bis MARRAKECH",
+        "coordinates": "31.58953333333,-8.036433333333",
+        "ville": "MARRAKECH",
+        "telephone": "0524 36 02 56"
+    },
+    {
+        "name": "Pharmacie Razi",
+        "quartier": "DaoudiatMarrakech",
+        "status": "nuit",
+        "address": "398, unité 2 hay mohamadi en face boulangerie takadoum et près station taxi de sidi youssef (daoudiate) Marrakech",
+        "coordinates": "31.6534229,-7.9949436",
+        "ville": "Marrakech",
+        "telephone": "0524 31 46 00"
+    },
+    {
+        "name": "Pharmacie Zaouia ElAbbassia",
+        "quartier": "MedinaMarrakech",
+        "status": "nuit",
+        "address": "2 Derb Zaouia El Abbassia Derb Najem MARRAKECH",
+        "coordinates": "31.62461666667,-7.989866666667",
+        "ville": "MARRAKECH",
+        "telephone": "0524 38 23 11"
+    },
+    {
+        "name": "Pharmacie AlBahja",
+        "quartier": "hay HassaniMarrakech",
+        "status": "nuit",
+        "address": "453 bd El Midani q. AlBahja douar Laaskar Marrakech",
+        "coordinates": "31.63316666667,-8.044866666667",
+        "ville": "Marrakech",
+        "telephone": "0524 34 53 00"
+    },
+    {
+        "name": "Pharmacie Bennouna",
+        "quartier": "DaoudiatMarrakech",
+        "status": "nuit",
+        "address": "283 lotiss. Belbekar II hay Mohammadi MARRAKECH",
+        "coordinates": "31.65945145,-7.98861955",
+        "ville": "MARRAKECH",
+        "telephone": "0524 30 25 82"
+    },
+    {
+        "name": "Pharmacie Salma",
+        "quartier": "LamhamidMarrakech",
+        "status": "nuit",
+        "address": "Lot. Zerktouni Bouâkkaz 1436, à côté de l'Ecole Assabila et l'Academie Taher Lakhlaj M'hamid Marrakech",
+        "coordinates": "31.62579918,-7.98916006",
+        "ville": "Marrakech",
+        "telephone": "0524 37 22 47"
+    },
+    {
+        "name": "Pharmacie Alkasbah",
+        "quartier": "MedinaMarrakech",
+        "status": "nuit",
+        "address": "33 rue Sehrij Gnaoua Kasbah MARRAKECH",
+        "coordinates": "31.61631666667,-7.98900000",
+        "ville": "MARRAKECH",
+        "telephone": "0524 37 67 78"
+    },
+    {
+        "name": "Pharmacie de Marrakech",
+        "quartier": "MedinaMarrakech",
+        "status": "nuit",
+        "address": "374 bd Fatima Zahra Bab Doukkala Marrakech",
+        "coordinates": "31.62596666667,-7.993166666667",
+        "ville": "Marrakech",
+        "telephone": "0524 37 51 33"
+    },
+    {
+        "name": "Pharmacie Mouzdalifa",
+        "quartier": "DaoudiatMarrakech",
+        "status": "nuit",
+        "address": "Bd. Mouzdalifa Sinko Im. Derraz à côté Lycée Sahnoun, à 200m de CNSS et à 100m de patisserie Le Vôtr Marrakech",
+        "coordinates": "31.62579918,-7.98916006",
+        "ville": "Marrakech",
+        "telephone": "0524 33 23 46"
+    },
+    {
+        "name": "Pharmacie Centrale AlIzdihar",
+        "quartier": "hay Al IzdiharMarrakech",
+        "status": "nuit",
+        "address": "332 lotiss. Al Izdihar I rte Safi Marrakech",
+        "coordinates": "31.66615310,-8.03217996",
+        "ville": "Marrakech",
+        "telephone": "0524 33 54 56"
+    },
+    {
+        "name": "Pharmacie Targa Place",
+        "quartier": "Hay HassaniMarrakech",
+        "status": "nuit",
+        "address": "4 rte de Targa - Autre ville Annexe Inara Ript Nour Marrakech",
+        "coordinates": "31.64298600,-8.05860300",
+        "ville": "Marrakech",
+        "telephone": "0525 25 07 50"
+    },
+    {
+        "name": "Pharmacie M Avenue",
+        "quartier": "Grand GuelizMarrakech",
+        "status": "nuit",
+        "address": "2 bd de la Ménara - Autre ville Marrakech",
+        "coordinates": "31.61986500,-8.02067100",
+        "ville": "Marrakech",
+        "telephone": "0524 44 61 58"
+    },
+    {
+        "name": "Pharmacie Tallaght",
+        "quartier": "Nakhil SudMarrakech",
+        "status": "nuit",
+        "address": "hay Annakhil n°144 sud Syba Sidi Youssef ben Ali Marrakech",
+        "coordinates": "31.62513300,-7.93463900",
+        "ville": "Marrakech",
+        "telephone": "0524 40 30 11"
+    },
+    {
+        "name": "Pharmacie Baghdad",
+        "quartier": "Sidi YoussefMarrakech",
+        "status": "nuit",
+        "address": "133 Derb Jamaâ Lakbir (Syba) MARRAKECH",
+        "coordinates": "31.62126187,-7.96863441",
+        "ville": "MARRAKECH",
+        "telephone": "0524 40 66 68"
+    },
+    {
+        "name": "Pharmacie Mizaj",
+        "quartier": "Sidi Ghanem AzzouziaMarrakech",
+        "status": "nuit",
+        "address": "22 lotiss. Al Massar - Autre ville Marrakech",
+        "coordinates": "31.67602000,-8.03777500",
+        "ville": "Marrakech",
+        "telephone": "0524 33 67 62"
+    },
+    {
+        "name": "Pharmacie Les Orangers",
+        "quartier": "TargaMarrakech",
+        "status": "nuit",
+        "address": "60 lotiss. Lalla Hayya Targa Marrakech",
+        "coordinates": "31.65192164,-8.04762546",
+        "ville": "Marrakech",
+        "telephone": "0524 34 38 88"
+    },
+    {
+        "name": "Pharmacie El Housna",
+        "quartier": "LamhamidMarrakech",
+        "status": "nuit",
+        "address": "767, Lot. El Housna II, en face Lot. Ouirgane et à côté Arrondissement Askadjour Marrakech",
+        "coordinates": "31.61759949,-7.97060013",
+        "ville": "Marrakech",
+        "telephone": "0524 36 08 30"
+    },
+    {
+        "name": "Pharmacie Awatif",
+        "quartier": "DaoudiatMarrakech",
+        "status": "nuit",
+        "address": "Lot. Awatif Imm. A 1 Assif, près de l'école El Bachir et Mosquée Awatif Marrakech",
+        "coordinates": "31.62579918,-7.98916006",
+        "ville": "Marrakech",
+        "telephone": "0524 33 12 93"
+    },
+    {
+        "name": "Pharmacie Borj Ennakhil",
+        "quartier": "AÏn IttiMarrakech",
+        "status": "nuit",
+        "address": "Route de Fès \" Nakhla al 3ouja \" Entrée Tamsna en face du Jnane Lkbir Marrakech",
+        "coordinates": "31.64699936,-7.98200989",
+        "ville": "Marrakech",
+        "telephone": "0524 32 97 89"
+    },
+    {
+        "name": "Pharmacie Qaryia Syahyia",
+        "quartier": "AÏn IttiMarrakech",
+        "status": "nuit",
+        "address": "3 Al Qaria Assiyahia rte bab Lakhmis Nakhil sud Ain Itti Marrakech",
+        "coordinates": "31.63970000,-7.979416666667",
+        "ville": "Marrakech",
+        "telephone": "0524 30 65 47"
+    },
+    {
+        "name": "Pharmacie Ibn Al Aouam",
+        "quartier": "Hay HassaniMarrakech",
+        "status": "nuit",
+        "address": "imm. al ahbass al massira 1 en face de cosmos et à côté du bon coin Marrakech",
+        "coordinates": "31.62679475,-8.00302426",
+        "ville": "Marrakech",
+        "telephone": "0525 06 13 42"
+    },
+    {
+        "name": "Pharmacie Du Kawkab",
+        "quartier": "Grand GuelizMarrakech",
+        "status": "nuit",
+        "address": "36 bd Moulay Hassan Kawkab Center MARRAKECH",
+        "coordinates": "31.62893333333,-8.007633333333",
+        "ville": "MARRAKECH",
+        "telephone": "0524 44 80 77"
+    },
+    {
+        "name": "Pharmacie les Jardins de Majorelle Ex- Zahia",
+        "quartier": "Grand GuelizMarrakech",
+        "status": "nuit",
+        "address": "39 bd Prince Moulay Abdallah Marrakech",
+        "coordinates": "31.64190000,-8.00475000",
+        "ville": "Marrakech",
+        "telephone": "0524 30 12 11"
+    },
+    {
+        "name": "Pharmacie Al Amana",
+        "quartier": "Nakhil SudMarrakech",
+        "status": "nuit",
+        "address": "78, douar ouled el garne rte ait ourir marrakech",
+        "coordinates": "31.63440359,-7.92054428",
+        "ville": "Marrakech",
+        "telephone": "0524 32 83 28"
+    },
+    {
+        "name": "Pharmacie ElAhd ElJadid",
+        "quartier": "hay HassaniMarrakech",
+        "status": "nuit",
+        "address": "2028 lotiss. Socoma I MARRAKECH",
+        "coordinates": "31.61448333333,-8.058616666667",
+        "ville": "MARRAKECH",
+        "telephone": "0524 49 52 65"
+    },
+    {
+        "name": "Pharmacie Abihafs",
+        "quartier": "Hay HassaniMarrakech",
+        "status": "nuit",
+        "address": "Les Portes de Marrakech Addoha, sur la route d'Essaouira tournez à droite à 40m, à côté du Groupe Sc",
+        "coordinates": "31.63080025,-8.04471970",
+        "ville": "Marrakech",
+        "telephone": "0524 01 78 96"
+    },
+    {
+        "name": "Pharmacie Belkziz",
+        "quartier": "Hay HassaniMarrakech",
+        "status": "nuit",
+        "address": "5 hay El Bahja Marrakech",
+        "coordinates": "31.63500000,-8.04610000",
+        "ville": "Marrakech",
+        "telephone": "0524 49 21 04"
+    },
+    {
+        "name": "Pharmacie Chater",
+        "quartier": "MedinaMarrakech",
+        "status": "nuit",
+        "address": "51 Arsat El Bardi Jadida Médina MARRAKECH",
+        "coordinates": "31.61981666667,-7.990366666667",
+        "ville": "MARRAKECH",
+        "telephone": "0524 37 64 44"
+    },
+    {
+        "name": "Pharmacie Moderne",
+        "quartier": "Grand GuelizMarrakech",
+        "status": "nuit",
+        "address": "Angle Av. Mohamed V et rue Mohamed El Baqual, entre Librairie Chater et Armel Marrakech",
+        "coordinates": "31.63220024,-8.01080990",
+        "ville": "Marrakech",
+        "telephone": "0524 43 43 49"
+    },
+    {
+        "name": "Pharmacie Borj Targa",
+        "quartier": "TargaMarrakech",
+        "status": "nuit",
+        "address": "rte de Souihla Targa MARRAKECH",
+        "coordinates": "31.65206666667,-8.061816666667",
+        "ville": "MARRAKECH",
+        "telephone": "0524 34 34 60"
+    },
+    {
+        "name": "Pharmacie Al Badre",
+        "quartier": "LamhamidMarrakech",
+        "status": "nuit",
+        "address": "985 Hay M'hamid 2 MARRAKECH",
+        "coordinates": "31.59160000,-8.043233333333",
+        "ville": "MARRAKECH",
+        "telephone": "0524 37 20 24"
+    },
+    {
+        "name": "Pharmacie Nassir",
+        "quartier": "Sidi YoussefMarrakech",
+        "status": "nuit",
+        "address": "227 X lotiss. Nakhil bloc 9 n°227 Sidi Youssef Ben Ali MARRAKECH",
+        "coordinates": "31.60993717,-7.95753543",
+        "ville": "MARRAKECH",
+        "telephone": "0524 40 66 88"
+    },
+    {
+        "name": "Pharmacie Zohour",
+        "quartier": "AÏn IttiMarrakech",
+        "status": "nuit",
+        "address": "Quartier Ain Itti résid. Zohour imm. 173 n°62 MARRAKECH",
+        "coordinates": "31.64268333333,-7.98270000",
+        "ville": "MARRAKECH",
+        "telephone": "0524 32 83 42"
+    },
+    {
+        "name": "Pharmacie ElMazani",
+        "quartier": "LamhamidMarrakech",
+        "status": "nuit",
+        "address": "Hay M'hamid 9 grp. Adoha MARRAKECH",
+        "coordinates": "31.57310524,-8.05608783",
+        "ville": "MARRAKECH",
+        "telephone": "0524 37 11 44"
+    },
+    {
+        "name": "Pharmacie Soufiane",
+        "quartier": "Hay HassaniMarrakech",
+        "status": "nuit",
+        "address": "652 hay Youssef Ibn Tachfine z.i. Azli MARRAKECH",
+        "coordinates": "31.61771666667,-8.04845000",
+        "ville": "MARRAKECH",
+        "telephone": "0524 49 36 88"
+    },
+    {
+        "name": "Pharmacie Zhor",
+        "quartier": "Les Amicales IhchechAgadir",
+        "status": "garde 24h",
+        "address": "4 bis, bd moulay youssef, bloc 10 ihchach c.p.h, a coté du collège prince héritier Agadir",
+        "coordinates": "30.42111440,-9.58306260",
+        "ville": "Agadir",
+        "telephone": "0528 84 37 78"
+    },
+    {
+        "name": "Pharmacie 20 Aout",
+        "quartier": "Lakhyam Erac BouarganeAgadir",
+        "status": "garde 24h",
+        "address": "180 bd imam el boukhari erac bouargane AGADIR",
+        "coordinates": "30.41670036,-9.60000038",
+        "ville": "AGADIR",
+        "telephone": "0528 23 32 79"
+    },
+    {
+        "name": "Pharmacie Reda",
+        "quartier": "Hay MohammadiAgadir",
+        "status": "garde 24h",
+        "address": "512, hay mohammadi, hay abaraz, près du rondpoint ait almouden Agadir",
+        "coordinates": "30.42111440,-9.58306260",
+        "ville": "Agadir",
+        "telephone": "0528 22 22 30"
+    },
+    {
+        "name": "Pharmacie du soleil",
+        "quartier": "TalborjtAgadir",
+        "status": "garde 24h",
+        "address": "bd john kennedy talborjt AGADIR",
+        "coordinates": "30.41670036,-9.60000038",
+        "ville": "AGADIR",
+        "telephone": "0528 84 80 04"
+    },
+    {
+        "name": "Pharmacie Bensergao",
+        "quartier": "BensergaoAgadir",
+        "status": "garde 24h",
+        "address": "50, hay bensergao, bloc 1, rte principale, en face salle des fêtes al firdaous Agadir",
+        "coordinates": "30.42111440,-9.58306260",
+        "ville": "Agadir",
+        "telephone": "0528 28 06 77"
+    },
+    {
+        "name": "Pharmacie Anza",
+        "quartier": "AnzaAgadir",
+        "status": "garde 24h",
+        "address": "bloc c numéro 4 anza AGADIR",
+        "coordinates": "30.41670036,-9.60000038",
+        "ville": "AGADIR",
+        "telephone": "0528 20 48 66"
+    },
+    {
+        "name": "Pharmacie Lolita",
+        "quartier": "TaddartAgadir",
+        "status": "garde 24h",
+        "address": "735 lot anza bloc c, taddart Agadir",
+        "coordinates": "30.42111440,-9.58306260",
+        "ville": "Agadir",
+        "telephone": "0808 56 56 69"
+    },
+    {
+        "name": "Pharmacie Odessa",
+        "quartier": "Salam Houda BensergaoAgadir",
+        "status": "garde 24h",
+        "address": "hay essalam, résid. tarik al kheir 1, imm. 2, mag. 4, près de jet sakane 1 Agadir",
+        "coordinates": "30.42111440,-9.58306260",
+        "ville": "Agadir",
+        "telephone": "0528 28 28 82"
+    },
+    {
+        "name": "Pharmacie Sara",
+        "quartier": "Salam Houda BensergaoAgadir",
+        "status": "garde 24h",
+        "address": "hay al houda bloc h n°299 Agadir",
+        "coordinates": "30.42111440,-9.58306260",
+        "ville": "Agadir",
+        "telephone": "0528 32 08 73"
+    },
+    {
+        "name": "Pharmacie Iqbal",
+        "quartier": "Lakhyam Erac BouarganeAgadir",
+        "status": "garde 24h",
+        "address": "bd mohamed iqbal, a coté de hamam amsernat Agadir",
+        "coordinates": "30.42111440,-9.58306260",
+        "ville": "Agadir",
+        "telephone": "0525 20 03 70"
+    },
+    {
+        "name": "Pharmacie El Mghari",
+        "quartier": "DakhlaAgadir",
+        "status": "garde 24h",
+        "address": "5, bd hassan 1er imm. alwifaq, cité dakhla Agadir",
+        "coordinates": "30.42111440,-9.58306260",
+        "ville": "Agadir",
+        "telephone": "0528 23 97 64"
+    },
+    {
+        "name": "Pharmacie Majd",
+        "quartier": "Adrar TililaAgadir",
+        "status": "garde 24h",
+        "address": "lotiss. tilila, n°3358, avenue tagmat, derrière attijari wafa bank AGADIR",
+        "coordinates": "30.41670036,-9.60000038",
+        "ville": "AGADIR",
+        "telephone": "0528 28 89 89"
+    },
+    {
+        "name": "Pharmacie Zerktouni",
+        "quartier": "Meknes",
+        "status": "nuit",
+        "address": "108 bd Mohamed Zerktouni - Autre ville hay Nasr Ouislane Meknes",
+        "coordinates": "33.91082900,-5.48005800",
+        "ville": "Meknes",
+        "telephone": "0535 54 90 44"
+    },
+    {
+        "name": "Pharmacie Dar Achifae",
+        "quartier": "Meknes",
+        "status": "nuit",
+        "address": "1104 hay Al Bassatine 7 - lot 2 Meknes",
+        "coordinates": "33.89680099,-5.53183985",
+        "ville": "Meknes",
+        "telephone": "0535 50 16 60"
+    },
+    {
+        "name": "Pharmacie Al Inaya",
+        "quartier": "IsmailiaMeknes",
+        "status": "nuit",
+        "address": "hay oujah arous rue 16 n°333 Meknes",
+        "coordinates": "33.89680099,-5.53183985",
+        "ville": "Meknes",
+        "telephone": "0535 53 09 06"
+    },
+    {
+        "name": "Pharmacie Jardin des Plantes",
+        "quartier": "Meknes",
+        "status": "garde 24h",
+        "address": "5 Jnane Kitane Meknes",
+        "coordinates": "33.89441740,-5.55542595",
+        "ville": "Meknes",
+        "telephone": "0642 05 14 29"
+    },
+    {
+        "name": "Pharmacie Ibnou Bajaa",
+        "quartier": "Meknes",
+        "status": "nuit",
+        "address": "lotiss. Al Manar - Autre ville reisd Ibnou Rochd Meknes",
+        "coordinates": "33.91012000,-5.54019100",
+        "ville": "Meknes",
+        "telephone": "0535 51 63 83"
+    },
+    {
+        "name": "Pharmacie 15 Mars",
+        "quartier": "Meknes",
+        "status": "nuit",
+        "address": "23 lotiss. Al Bassatine - Fathallah 3 Wislame Meknes",
+        "coordinates": "33.89680099,-5.53183985",
+        "ville": "Meknes",
+        "telephone": "0535 50 60 00"
+    },
+    {
+        "name": " Pharmacie Zenith",
+        "quartier": "Meknes",
+        "status": "garde 24h",
+        "address": "3 rue Chefchaouen - Autre ville ang. av. Baccharet imm.B Meknes",
+        "coordinates": "33.89549000,-5.52822900",
+        "ville": "Meknes",
+        "telephone": "0808 66 30 12"
+    },
+    {
+        "name": "Pharmacie Addoha Dkhissa",
+        "quartier": "Meknes",
+        "status": "garde 24h",
+        "address": "28, douar Zoualeth , Dkhissa Meknes",
+        "coordinates": "33.89781189,-5.53198338",
+        "ville": "Meknes",
+        "telephone": "0535 43 39 59"
+    },
+    {
+        "name": "Pharmacie Rawnak",
+        "quartier": "Meknes",
+        "status": "garde 24h",
+        "address": "45 rue Jamaleddine El Afghani résid. Al Andalous place d'armes Meknes",
+        "coordinates": "33.88330078,-5.55000019",
+        "ville": "Meknes",
+        "telephone": "0535 51 13 42"
+    },
+    {
+        "name": "Pharmacie de Meknes",
+        "quartier": "Meknes",
+        "status": "garde 24h",
+        "address": "194 lotiss. Sahara 2 rte. Agourai Meknes",
+        "coordinates": "33.87783333333,-5.570166666667",
+        "ville": "Meknes",
+        "telephone": "0535 45 48 69"
+    },
+    {
+        "name": "Pharmacie El Anouar",
+        "quartier": "Meknes",
+        "status": "nuit",
+        "address": "1364 hay Marjane 5 Sidi Bouzekri Meknes",
+        "coordinates": "33.86118617,-5.53452100",
+        "ville": "Meknes",
+        "telephone": "0535 45 07 47"
+    },
+    {
+        "name": "Pharmacie Bridia",
+        "quartier": "IsmailiaMeknes",
+        "status": "nuit",
+        "address": "hay al atlas, rue 13 n°59 zitoune Meknes",
+        "coordinates": "33.88330078,-5.55000019",
+        "ville": "Meknes",
+        "telephone": "0535 45 17 76"
+    },
+    {
+        "name": "Pharmacie Ait Ouallal",
+        "quartier": "Ain TaoujdateMeknes",
+        "status": "nuit",
+        "address": "Ait Oullal Cercle de Ain Taoujdate Meknes",
+        "coordinates": "33.93780600,-5.21458400",
+        "ville": "Meknes",
+        "telephone": "0535 44 16 65"
+    },
+    {
+        "name": "Pharmacie Rouamzine",
+        "quartier": "Meknes",
+        "status": "nuit",
+        "address": "79 rue Rouamzine MEKNES",
+        "coordinates": "33.88330078,-5.55000019",
+        "ville": "MEKNES",
+        "telephone": "0535 53 02 21"
+    },
+    {
+        "name": "Pharmacie Fadilia",
+        "quartier": "Meknes",
+        "status": "garde 24h",
+        "address": "117 lotiss. Fadilia rte. Agourai Meknes",
+        "coordinates": "33.87850000,-5.578566666667",
+        "ville": "Meknes",
+        "telephone": "0535 46 95 09"
+    },
+    {
+        "name": "Pharmacie Belair",
+        "quartier": "Meknes",
+        "status": "nuit",
+        "address": "14 bd Allal El Fassi résid. Ibn Sina Meknes",
+        "coordinates": "33.88330078,-5.55000019",
+        "ville": "Meknes",
+        "telephone": "0535 51 28 07"
+    },
+    {
+        "name": "Pharmacie Mazhar",
+        "quartier": "Yacoub El MansourRabat",
+        "status": "garde 24h",
+        "address": "127 avenue al majd amal 3 c.y.m - Rabat",
+        "coordinates": "34.02239990,-6.83453989",
+        "ville": "Rabat",
+        "telephone": "0537 79 46 66"
+    },
+    {
+        "name": "Pharmacie Du Croissant",
+        "quartier": "Akkari OceanRabat",
+        "status": "nuit",
+        "address": "200 avenue mohamed ben abdellah - akkari Rabat",
+        "coordinates": "34.02239990,-6.83453989",
+        "ville": "Rabat",
+        "telephone": "0537 69 04 23"
+    },
+    {
+        "name": "Pharmacie L'oasis",
+        "quartier": "AgdalRabat",
+        "status": "garde 24h",
+        "address": "8, avenue oqba ( a coté du 3ème arrondissement de police ) Rabat",
+        "coordinates": "34.02239990,-6.83453989",
+        "ville": "Rabat",
+        "telephone": "0537 68 25 03"
+    },
+    {
+        "name": "Pharmacie Berbich",
+        "quartier": "Akkari Ocean OrangersRabat",
+        "status": "garde 24h",
+        "address": "12 bis, avenue  alghazali  quartier les orangers (en face du centre commercial les orangers) Rabat",
+        "coordinates": "34.01670074,-6.83333015",
+        "ville": "Rabat",
+        "telephone": "0537 26 07 72"
+    },
+    {
+        "name": "Pharmacie Centrale",
+        "quartier": "Centre VilleRabat",
+        "status": "nuit",
+        "address": "n°113. angle bd mohammed bn lhassan et bd hassan2, immeuble 44a c4 Rabat",
+        "coordinates": "31.17280006,-7.33624983",
+        "ville": "Rabat",
+        "telephone": "0537 72 43 95"
+    },
+    {
+        "name": "Pharmacie Carre Sante Beaute",
+        "quartier": "Hay RiadRabat",
+        "status": "garde 24h",
+        "address": "avenue mehdi ben berka chaumiere 1 n°2 Rabat",
+        "coordinates": "34.02239990,-6.83453989",
+        "ville": "Rabat",
+        "telephone": "0537 71 71 27"
+    },
+    {
+        "name": "Pharmacie la Santé",
+        "quartier": "Safi",
+        "status": "nuit",
+        "address": "25 bd. Mohammed Ben Abdellah Safi",
+        "coordinates": "32.29400000,-9.234766666667",
+        "ville": "Safi",
+        "telephone": "0524 46 27 74"
+    },
+    {
+        "name": "Pharmacie Zamzam",
+        "quartier": "Safi",
+        "status": "nuit",
+        "address": "Lotiss. Zohour rte Sania Safi",
+        "coordinates": "-9231555,32.273001",
+        "ville": "Safi",
+        "telephone": "0524 65 15 51"
+    },
+    {
+        "name": "Pharmacie Ibnou Kaym",
+        "quartier": "Safi",
+        "status": "nuit",
+        "address": "Lotiss. Miftah ElKhor lot. 345 Safi",
+        "coordinates": "32.31305000,-9.232333333333",
+        "ville": "Safi",
+        "telephone": "0524 66 61 09"
+    },
+    {
+        "name": "Pharmacie Attae",
+        "quartier": "Safi",
+        "status": "nuit",
+        "address": "Sidi Abdelkerim 1 lot. 173 Safi",
+        "coordinates": "32.31815400,-9.23351300",
+        "ville": "Safi",
+        "telephone": "0524 66 83 53"
+    },
+    {
+        "name": "Pharmacie Al Hidaya",
+        "quartier": "Safi",
+        "status": "nuit",
+        "address": "q. Kaouki Safi",
+        "coordinates": "32.25959300,-9.24663200",
+        "ville": "Safi",
+        "telephone": "0540 04 12 33"
+    },
+    {
+        "name": "Pharmacie Ibn Tofail",
+        "quartier": "Safi",
+        "status": "nuit",
+        "address": "Lot. Saida q. Zine Abidine Bloc 17 Safi",
+        "coordinates": "32.28245998,-9.22791226",
+        "ville": "Safi",
+        "telephone": "0524 62 11 18"
+    },
+    {
+        "name": "Pharmacie Assabil",
+        "quartier": "Sala el jadidaSale",
+        "status": "nuit",
+        "address": "villa 542, lotissement des villas Sale",
+        "coordinates": "34.0007941,-6.7316356",
+        "ville": "Sale",
+        "telephone": "0530 00 24 34"
+    },
+    {
+        "name": "Pharmacie Mehdia",
+        "quartier": "My IsmailSale",
+        "status": "garde 24h",
+        "address": "hay moulay ismail, n°2234 - SALE",
+        "coordinates": "34.03329849,-6.80000019",
+        "ville": "SALE",
+        "telephone": "0537 80 48 52"
+    },
+    {
+        "name": "Pharmacie Oum Al Kora",
+        "quartier": "Hay ArrahmaSale",
+        "status": "garde 24h",
+        "address": "av youssef ibn tachfine n°110 bis hay cheikh lamfadel - Sale",
+        "coordinates": "34.04489899,-6.81402016",
+        "ville": "Sale",
+        "telephone": "0537 87 13 43"
+    },
+    {
+        "name": "Pharmacie Mrissa",
+        "quartier": "Hay ChmaouSale",
+        "status": "garde 24h",
+        "address": "24h/24h3 rue idriss sbihi – prés clinique beauséjour Sale",
+        "coordinates": "34.0332837,-6.8261462",
+        "ville": "Sale",
+        "telephone": "0537 84 52 99"
+    },
+    {
+        "name": "Pharmacie Athènes",
+        "quartier": "Sala El JadidaSale",
+        "status": "garde 24h",
+        "address": "3, bd abderrahim bouabid, c4, sala al jadida SALE",
+        "coordinates": "34.0034604,-6.7455164",
+        "ville": "SALE",
+        "telephone": "0537 53 18 27"
+    },
+    {
+        "name": "Pharmacie Ghriss",
+        "quartier": "BettanaSale",
+        "status": "nuit",
+        "address": "angle rue bir jdid et nouasser n°53 (a cote hamam cherkaoui) Sale",
+        "coordinates": "34.0273665,-6.8041537",
+        "ville": "Sale",
+        "telephone": "0537 81 31 82"
+    },
+    {
+        "name": "Pharmacie La Mamora",
+        "quartier": "TabriquetSale",
+        "status": "garde 24h",
+        "address": "angle av my youssef et av soudan (en face de l'école nationale forestiere des ingenieurs) Sale",
+        "coordinates": "34.0424757,-6.8014598",
+        "ville": "Sale",
+        "telephone": "0537 85 40 87"
+    },
+    {
+        "name": "Pharmacie Sakani",
+        "quartier": "Al Mohit Abouab SalaSale",
+        "status": "garde 24h",
+        "address": "hay bouchouk, résidence sakani 2 imm b 402 Sale",
+        "coordinates": "34.0817545,-6.784656",
+        "ville": "Sale",
+        "telephone": "0537 84 60 70"
+    },
+    {
+        "name": "Pharmacie Zone Industrielle",
+        "quartier": "Tanger",
+        "status": "garde 24h",
+        "address": "route de tétouan, mghogha kebira 90000 tanger - maroc",
+        "coordinates": "35.75000000,-5.80000019",
+        "ville": "Tanger",
+        "telephone": "0539 95 30 63"
+    },
+    {
+        "name": "Pharmacie Ibn Batouta",
+        "quartier": "Tanger",
+        "status": "garde 24h",
+        "address": "134a , rue ibn ardounn, branes i 90000 tanger - maroc",
+        "coordinates": "35.75000000,-5.80000019",
+        "ville": "Tanger",
+        "telephone": "0539 31 42 52"
+    },
+    {
+        "name": "Pharmacie Irchad",
+        "quartier": "Tanger",
+        "status": "garde 24h",
+        "address": "8, route rgaie, al aouama 90000 tanger - maroc",
+        "coordinates": "35.75000000,-5.80000019",
+        "ville": "Tanger",
+        "telephone": "0539 36 39 39"
+    },
+    {
+        "name": "Pharmacie Oued Sania",
+        "quartier": "Tanger",
+        "status": "garde 24h",
+        "address": "route de tanja balia, quartier oued sania 90000 tanger - maroc",
+        "coordinates": "35.75000000,-5.80000019",
+        "ville": "Tanger",
+        "telephone": "0539 30 12 79"
+    },
+    {
+        "name": "Pharmacie Ward Louama",
+        "quartier": "Tanger",
+        "status": "garde 24h",
+        "address": "lotissement 9305, khandaq al ward 90000 tanger - maroc",
+        "coordinates": "35.76423130,-5.81862600",
+        "ville": "Tanger",
+        "telephone": "0624 44 70 80"
+    },
+    {
+        "name": "Pharmacie Al Hambra",
+        "quartier": "Tanger",
+        "status": "garde 24h",
+        "address": "30, rue essaoudia, hay haddad 90000 tanger - maroc",
+        "coordinates": "35.77709961,-5.80379009",
+        "ville": "Tanger",
+        "telephone": "0539 95 41 66"
+    },
+    {
+        "name": "Pharmacie Boubana",
+        "quartier": "Tanger",
+        "status": "garde 24h",
+        "address": "138 bis, route rahrah, à côté du stade cricket 90000 tanger - maroc",
+        "coordinates": "35.75000000,-5.80000019",
+        "ville": "TANGER",
+        "telephone": "0539 93 53 60"
+    },
+    {
+        "name": "Pharmacie Hay Boughaz",
+        "quartier": "Tanger",
+        "status": "garde 24h",
+        "address": "hay boughaz 90000 tanger - maroc",
+        "coordinates": "35.77709961,-5.80379009",
+        "ville": "Tanger",
+        "telephone": "0539 95 83 22"
+    },
+    {
+        "name": "Pharmacie Tanja Al Koubra",
+        "quartier": "Tanger",
+        "status": "garde 24h",
+        "address": "avenue moulay rachid 90040 tanger - maroc",
+        "coordinates": "35.62020111,-5.27332020",
+        "ville": "Tanger",
+        "telephone": "0539 42 27 05"
+    },
+    {
+        "name": "Pharmacie Sabila Jmaa",
+        "quartier": "Tanger",
+        "status": "garde 24h",
+        "address": "1, rue malte, sabila jmaa, marshan 90000 tanger - maroc",
+        "coordinates": "35.75000000,-5.80000019",
+        "ville": "TANGER",
+        "telephone": "0539 37 52 82"
+    },
+    {
+        "name": "Pharmacie Granada",
+        "quartier": "Tanger",
+        "status": "garde 24h",
+        "address": "18, rue teheran 90000 tanger - maroc",
+        "coordinates": "35.75000000,-5.80000019",
+        "ville": "Tanger",
+        "telephone": "0539 94 07 72"
+    },
+    {
+        "name": "Pharmacie El Moufid",
+        "quartier": "Tanger",
+        "status": "garde 24h",
+        "address": "avenue ahlen, zemmouri ii 90000 tanger - maroc",
+        "coordinates": "35.76423130,-5.81862600",
+        "ville": "Tanger",
+        "telephone": "0539 30 73 41"
+    },
+    {
+        "name": "Pharmacie Hay Al Mostakbal",
+        "quartier": "ZouaghaFes",
+        "status": "garde 24h",
+        "address": "n° 139 lotissement al mostakbal hay al massira Fes",
+        "coordinates": "34.03329849,-5.00000000",
+        "ville": "Fes",
+        "telephone": "0535 72 91 87"
+    },
+    {
+        "name": "Pharmacie Jeroundi",
+        "quartier": "Ain ChkefFes",
+        "status": "garde 24h",
+        "address": "jnane fes1. ain chkef",
+        "coordinates": "34.02619515,-5.02318487",
+        "ville": "Fes",
+        "telephone": "0535 69 16 38"
+    },
+    {
+        "name": "Pharmacie Alae Arrahmane",
+        "quartier": "SaissFes",
+        "status": "garde 24h",
+        "address": "pharmacie alae arrahmane, riad narjis, près du souk aouinat hojaj FES",
+        "coordinates": "34.03329849,-5.00000000",
+        "ville": "FES",
+        "telephone": "0535 61 61 69"
+    },
+    {
+        "name": "Pharmacie Al Anouar",
+        "quartier": "Medina JnanatFes",
+        "status": "garde 24h",
+        "address": "place lahbabi, bab el khokha lfakharine Fes",
+        "coordinates": "34.06360010,-4.96395010",
+        "ville": "Fes",
+        "telephone": "0535 64 90 77"
+    },
+    {
+        "name": "Pharmacie Taiba",
+        "quartier": "AgdalFes",
+        "status": "garde 24h",
+        "address": "pharmacie taiba, lotissement el fadila n° 20, ain amer, route ain chkef FES",
+        "coordinates": "34.03329849,-5.00000000",
+        "ville": "FES",
+        "telephone": "0535 60 77 77"
+    },
+    {
+        "name": "Pharmacie Tadlaoui",
+        "quartier": "Les MerinidesFes",
+        "status": "garde 24h",
+        "address": "n°85 lotissement oued fès Fes",
+        "coordinates": "34.05223700,-5.02185260",
+        "ville": "Fes",
+        "telephone": "0532 90 99 66"
+    },
+    {
+        "name": "Pharmacie Ibn Khaldoune",
+        "quartier": "Khouribga",
+        "status": "nuit",
+        "address": "lotiss. Nakhla rue Ecalyptus C4 KHOURIBGA",
+        "coordinates": "32.89652777778,-6.924961111111",
+        "ville": "KHOURIBGA",
+        "telephone": "0523 56 30 46"
+    },
+    {
+        "name": "Pharmacie Baghdad",
+        "quartier": "Khouribga",
+        "status": "nuit",
+        "address": "556 rue Baghdad Khouribga",
+        "coordinates": "32.88082300,-6.92339600",
+        "ville": "Khouribga",
+        "telephone": "0523 49 16 76"
+    },
+    {
+        "name": "Pharmacie Noury",
+        "quartier": "Khouribga",
+        "status": "nuit",
+        "address": "Quart Jmouhi lot 64 Khouribga",
+        "coordinates": "32.92135400,-6.84840000",
+        "ville": "Khouribga",
+        "telephone": "0523 45 15 80"
+    },
+    {
+        "name": "Pharmacie du 2 Mars",
+        "quartier": "Khouribga",
+        "status": "nuit",
+        "address": "16 lotiss. Zaitoune - Autre ville 1° tranche Khouribga",
+        "coordinates": "32.86617600,-6.90809000",
+        "ville": "Khouribga",
+        "telephone": "0624 49 28 96"
+    },
+    {
+        "name": "Pharmacie Irfane",
+        "quartier": "Khouribga",
+        "status": "nuit",
+        "address": "Rte Al Khatawate lotiss Al Hamraa n°12 Khouribga",
+        "coordinates": "32.88431100,-6.92009900",
+        "ville": "Khouribga",
+        "telephone": "0540 00 73 24"
+    },
+    {
+        "name": "Pharmacie Grand Maghreb",
+        "quartier": "Khouribga",
+        "status": "nuit",
+        "address": "814 bd Al Maghrib Al Arabi hay ElQods Khouribga",
+        "coordinates": "32.88715500,-6.92799200",
+        "ville": "Khouribga",
+        "telephone": "0523 56 78 95"
+    },
+    {
+        "name": "Pharmacie Hazime",
+        "quartier": "KhouribgaKhouribga",
+        "status": "nuit",
+        "address": "50 lot. Amal souk Khouribga",
+        "coordinates": "32.89635555556,-6.920827777778",
+        "ville": "Khouribga",
+        "telephone": "0523 58 04 59"
+    },
+    {
+        "name": "Pharmacie Khouribga",
+        "quartier": "KhouribgaKhouribga",
+        "status": "nuit",
+        "address": "153 bd Ahmed Cherradi lot ElKaram hay Nahda Khouribga",
+        "coordinates": "32.89430277778,-6.89477500",
+        "ville": "Khouribga",
+        "telephone": "0523 58 07 43"
+    },
+    {
+        "name": "Pharmacie Rachad",
+        "quartier": "SefrouSefrou",
+        "status": "nuit",
+        "address": "rue Errachad Sefrou",
+        "coordinates": "33.82490158,-4.83334017",
+        "ville": "Sefrou",
+        "telephone": "0535 66 26 03"
+    },
+    {
+        "name": "Pharmacie Razi",
+        "quartier": "Sefrou",
+        "status": "nuit",
+        "address": "220, av Yaâcoub El Mansour Sefrou",
+        "coordinates": "33.82490158,-4.83334017",
+        "ville": "Sefrou",
+        "telephone": "0535 96 94 60"
+    },
+    {
+        "name": "Pharmacie la Famille",
+        "quartier": "SefrouSefrou",
+        "status": "nuit",
+        "address": "lotissement Bir Anzarane , Ben Seffar n°19 Sefrou",
+        "coordinates": "33.82490158,-4.83334017",
+        "ville": "Sefrou",
+        "telephone": "0535 66 22 64"
+    },
+    {
+        "name": "Pharmacie Al Amal",
+        "quartier": "SefrouSefrou",
+        "status": "nuit",
+        "address": "Rfaif Sefrou",
+        "coordinates": "33.82490158,-4.83334017",
+        "ville": "Sefrou",
+        "telephone": "0535 66 02 65"
+    },
+    {
+        "name": "Pharmacie Lamkacem Ex- Avicenne Sina",
+        "quartier": "Sefrou",
+        "status": "nuit",
+        "address": "171 bd Amir Abdelkader Sefrou",
+        "coordinates": "33.82489800,-4.83333600",
+        "ville": "Sefrou",
+        "telephone": "0535 66 05 62"
+    },
+    {
+        "name": "Pharmacie Hafir",
+        "quartier": "Fkih Ben Salah",
+        "status": "nuit",
+        "address": "12 rue 28 Kouacem FKIH BEN SALAH",
+        "coordinates": "32.51663895,-6.53894509",
+        "ville": "FKIH BEN SALAH",
+        "telephone": "0523 43 23 12"
+    },
+    {
+        "name": "Pharmacie Tayret",
+        "quartier": "Oujda",
+        "status": "garde 24h",
+        "address": "531 X rue de Tayret Oujda",
+        "coordinates": "34.67426666667,-1.90215000",
+        "ville": "Oujda",
+        "telephone": "0536 68 14 10"
+    },
+    {
+        "name": "Pharmacie Zone Industrielle",
+        "quartier": "Oujda",
+        "status": "garde 24h",
+        "address": "rte d'Algérie bd Mohamed V Oujda",
+        "coordinates": "34.70466666667,-1.895666666667",
+        "ville": "Oujda",
+        "telephone": "0536 70 89 00"
+    },
+    {
+        "name": "Pharmacie Ait Ouallal",
+        "quartier": "Oujda",
+        "status": "nuit",
+        "address": "Ait Oullal Cercle de Ain Taoujdate",
+        "coordinates": "33.93780600,-5.21458400",
+        "ville": "Oujda",
+        "telephone": "0535 44 16 65"
+    },
+    {
+        "name": "Pharmacie Mouedder Ista Sidi Maafa",
+        "quartier": "Oujda",
+        "status": "garde 24h",
+        "address": "1 bd Mohammed VI - Autre ville Oujda",
+        "coordinates": "34.64786500,-1.89312500",
+        "ville": "Oujda",
+        "telephone": "0536 50 45 65"
+    },
+    {
+        "name": "Pharmacie Khouna",
+        "quartier": "Oujda",
+        "status": "garde 24h",
+        "address": "bd Allal ElFassi Lazaret Oujda",
+        "coordinates": "34.67926666667,-1.899666666667",
+        "ville": "Oujda",
+        "telephone": "0536 74 12 38"
+    },
+    {
+        "name": "Pharmacie Souk Mellilia",
+        "quartier": "Oujda",
+        "status": "garde 24h",
+        "address": "1 Rte. Bouknadel Oujda",
+        "coordinates": "34.67825000,-1.905133333333",
+        "ville": "Oujda",
+        "telephone": "0536 68 04 04"
+    },
+    {
+        "name": "Pharmacie de l'Espoir",
+        "quartier": "Oujda",
+        "status": "garde 24h",
+        "address": "Oued Nachef rue 1 n°203 Oujda",
+        "coordinates": "34.73948333333,-1.93050000",
+        "ville": "Oujda",
+        "telephone": "0536 51 53 08"
+    },
+    {
+        "name": "Pharmacie Mariam",
+        "quartier": "IhddadenNador",
+        "status": "garde 24h",
+        "address": "Ihaddaden Nador",
+        "coordinates": "35.16181460,-2.96213170",
+        "ville": "Nador",
+        "telephone": "0536 35 14 03"
+    },
+    {
+        "name": "Pharmacie Al Majd",
+        "quartier": "ZghanghanNador",
+        "status": "garde 24h",
+        "address": "hay Rouissi Nador",
+        "coordinates": "35.05189896,-2.82439995",
+        "ville": "Nador",
+        "telephone": "0536 35 07 06"
+    },
+    {
+        "name": "Pharmacie Masjid Badr",
+        "quartier": "NadorNador",
+        "status": "garde 24h",
+        "address": "lotiss. Boulghoudan Nador",
+        "coordinates": "35.15261900,-2.94663400",
+        "ville": "Nador",
+        "telephone": "0536 60 08 32"
+    },
+    {
+        "name": "Pharmacie Tanouti",
+        "quartier": "NadorNador",
+        "status": "garde 24h",
+        "address": "rte principale nouvelle quartier Ouled Mimoun Nador",
+        "coordinates": "35.16826666667,-2.936533333333",
+        "ville": "Nador",
+        "telephone": "0536 60 18 95"
+    },
+    {
+        "name": "Pharmacie Nador",
+        "quartier": "NadorNador",
+        "status": "garde 24h",
+        "address": "12 quartier Laarassi Nador",
+        "coordinates": "35.16241666667,-2.923483333333",
+        "ville": "Nador",
+        "telephone": "0536 33 06 60"
+    },
+    {
+        "name": "Pharmacie Alikhlass",
+        "quartier": "IhddadenNador",
+        "status": "garde 24h",
+        "address": "route Zghanghan Ihddaden Nador",
+        "coordinates": "35.05189896,-2.82439995",
+        "ville": "Nador",
+        "telephone": "0536 33 05 08"
+    },
+    {
+        "name": "Pharmacie AlMahatta",
+        "quartier": "Nador",
+        "status": "garde 24h",
+        "address": "254, av Hassan II Nador",
+        "coordinates": "35.01442120,-2.99719140",
+        "ville": "Nador",
+        "telephone": "0536 60 44 08"
+    },
+    {
+        "name": "Pharmacie Oum Saad",
+        "quartier": "Laayoune",
+        "status": "garde 24h",
+        "address": "124 av idriss 1 LAAYOUNE",
+        "coordinates": "27.15451241,-13.19539165",
+        "ville": "LAAYOUNE",
+        "telephone": "0528 89 32 46"
+    },
+    {
+        "name": "Pharmacie Meryem",
+        "quartier": "Hay ErrahaLaayoune",
+        "status": "garde 24h",
+        "address": "31 rue salmane el farissi - hay erraha Laayoune",
+        "coordinates": "27.15685280,-13.19815180",
+        "ville": "Laayoune",
+        "telephone": "0528 98 47 34"
+    },
+    {
+        "name": "Pharmacie Moulay Rachid",
+        "quartier": "Hay Moulay RahidLaayoune",
+        "status": "garde 24h",
+        "address": "hay moulay rchid (lirak), bd zerktouni, pres de l'ecole allal bn abdellah Laayoune",
+        "coordinates": "27.15685280,-13.19815180",
+        "ville": "Laayoune",
+        "telephone": "0528 89 03 78"
+    },
+    {
+        "name": "Pharmacie Route Ben Ahmed",
+        "quartier": "Settat",
+        "status": "garde 24h",
+        "address": "6, lotiss. el mouna , rte ben ahmed SETTAT",
+        "coordinates": "33.00239563,-7.61986685",
+        "ville": "SETTAT",
+        "telephone": "0523 40 69 53"
+    },
+    {
+        "name": "Pharmacie Atmani",
+        "quartier": "Settat",
+        "status": "garde 24h",
+        "address": "hay essalam , lot. n°155 tranche 6 SETTAT",
+        "coordinates": "33.00239563,-7.61986685",
+        "ville": "SETTAT",
+        "telephone": "0523 40 33 30"
+    },
+    {
+        "name": "Pharmacie Al Adarissa",
+        "quartier": "Beni Mellal",
+        "status": "nuit",
+        "address": "30 bd. El Farabi q. Al Adarissa Beni Mellal",
+        "coordinates": "32.33333333333,-6.36715000",
+        "ville": "Beni Mellal",
+        "telephone": "0523 48 78 28"
+    },
+    {
+        "name": "Pharmacie Sidi Jaber",
+        "quartier": "Beni Mellal",
+        "status": "nuit",
+        "address": "Pharmacie Sidi Jaber BENI MELLAL",
+        "coordinates": "32.33330154,-6.34999990",
+        "ville": "BENI MELLAL",
+        "telephone": "0523 45 51 00"
+    },
+    {
+        "name": "Pharmacie Zitoune",
+        "quartier": "Beni Mellal",
+        "status": "nuit",
+        "address": "17, av. AlQods , q. ElFadel II Beni mellal",
+        "coordinates": "32.33419300,-6.35333500",
+        "ville": "Beni mellal",
+        "telephone": "0523 48 68 49"
+    },
+    {
+        "name": "Pharmacie Principale",
+        "quartier": "Beni Mellal",
+        "status": "nuit",
+        "address": "bd Vingt Août Fadila 9 n°13 cplxe Oumnia Beni Mellal",
+        "coordinates": "32.34850000,-6.365483333333",
+        "ville": "Beni Mellal",
+        "telephone": "0523 42 30 59"
+    },
+    {
+        "name": "Pharmacie AlMasjid",
+        "quartier": "Beni Mellal",
+        "status": "nuit",
+        "address": "6, hay El Hassani, El Amria Beni mellal",
+        "coordinates": "32.33419300,-6.35333500",
+        "ville": "Beni mellal",
+        "telephone": "0523 48 83 92"
+    },
+    {
+        "name": "Pharmacie Bab Sahra",
+        "quartier": "Guelmim",
+        "status": "nuit",
+        "address": "22 av des Far Guelmim",
+        "coordinates": "28.98593333333,-10.05498333333",
+        "ville": "Guelmim",
+        "telephone": "0528 87 24 26"
+    },
+    {
+        "name": "Pharmacie Al Azhar",
+        "quartier": "Guelmim",
+        "status": "nuit",
+        "address": "59 av Tayert hay Adarissa II Guelmim",
+        "coordinates": "28.99024752,-10.04895179",
+        "ville": "Guelmim",
+        "telephone": "0528 87 18 19"
+    },
+    {
+        "name": "Pharmacie Al Mssalla",
+        "quartier": "Guelmim",
+        "status": "nuit",
+        "address": "61, av. Ibn Sina , q. Tayert Guelmim",
+        "coordinates": "28.98640060,-10.05739975",
+        "ville": "Guelmim",
+        "telephone": "0528 77 34 70"
+    },
+    {
+        "name": "Pharmacie Gharnata",
+        "quartier": "Guelmim",
+        "status": "nuit",
+        "address": "10 hay nouader Zrouila Guelmim",
+        "coordinates": "28.97656300,-10.06468000",
+        "ville": "Guelmim",
+        "telephone": "0808 52 12 55"
+    },
+    {
+        "name": "Pharmacie Dakhla - Hay Miri",
+        "quartier": "Guelmim",
+        "status": "nuit",
+        "address": "av Ibnou Toumert (jdid) hay Miri Guelmim",
+        "coordinates": "28.97715057,-10.04865138",
+        "ville": "Guelmim",
+        "telephone": "0528 87 18 88"
+    },
+    {
+        "name": "Pharmacie Nations Unies",
+        "quartier": "El Jadida",
+        "status": "nuit",
+        "address": "12 bd Allal Fassi hay Al Matar El jadida",
+        "coordinates": "33.23985500,-8.52397000",
+        "ville": "El jadida",
+        "telephone": "0808 54 14 48"
+    },
+    {
+        "name": "Pharmacie le Dauphin",
+        "quartier": "El Jadida",
+        "status": "nuit",
+        "address": "lotiss. Al Manar (Bencherki) zone 6 n°130 El jadida",
+        "coordinates": "33.25368600,-8.50887000",
+        "ville": "El jadida",
+        "telephone": "0523 39 39 16"
+    },
+    {
+        "name": "Pharmacie Lokmane",
+        "quartier": "El Jadida",
+        "status": "nuit",
+        "address": "12 bd Moulay Abdallah grp Ennakhil El jadida",
+        "coordinates": "33.24096666667,-8.519216666667",
+        "ville": "El jadida",
+        "telephone": "0523 39 22 69"
+    },
+    {
+        "name": "Pharmacie Al Mahabba",
+        "quartier": "El Jadida",
+        "status": "nuit",
+        "address": "431 hay Essalam 1 - Autre ville El jadida",
+        "coordinates": "33.22374500,-8.50057800",
+        "ville": "El jadida",
+        "telephone": "0523 34 30 77"
+    },
+    {
+        "name": "Pharmacie Sanaa",
+        "quartier": "El Jadida",
+        "status": "nuit",
+        "address": "lotiss. Saâda 3 résid. Nour Al Mohit A3 local L3 El jadida",
+        "coordinates": "33.24314465,-8.53577464",
+        "ville": "El jadida",
+        "telephone": "0523 39 35 34"
+    },
+    {
+        "name": "Pharmacie Islam",
+        "quartier": "El Jadida",
+        "status": "nuit",
+        "address": "lotiss. Essalam n° 25 El jadida",
+        "coordinates": "33.22137900,-8.50304400",
+        "ville": "El jadida",
+        "telephone": "0523 34 22 45"
+    },
+    {
+        "name": "Pharmacie Najd II",
+        "quartier": "El Jadida",
+        "status": "nuit",
+        "address": "lotiss. Ennajd II Q.38 n°3 El jadida",
+        "coordinates": "33.25421400,-8.50783200",
+        "ville": "El jadida",
+        "telephone": "0523 37 10 09"
+    },
+    {
+        "name": "Pharmacie Mouilha",
+        "quartier": "El Jadida",
+        "status": "nuit",
+        "address": "173 bd Abderrahmane Doukkali lotiss. Mouilha El jadida",
+        "coordinates": "33.25303333333,-8.51820000",
+        "ville": "El jadida",
+        "telephone": "0523 39 35 13"
+    },
+    {
+        "name": "Pharmacie Ibnou Sina",
+        "quartier": "El Jadida",
+        "status": "nuit",
+        "address": "76 rue Ibn Sina El jadida",
+        "coordinates": "33.25903333333,-8.511466666667",
+        "ville": "El jadida",
+        "telephone": "0523 34 44 92"
+    },
+    {
+        "name": "Pharmacie La Pleiade",
+        "quartier": "El Jadida",
+        "status": "nuit",
+        "address": "lotiss. Firdaouss, lot. n°1, hay Al Matar El jadida",
+        "coordinates": "33.23369520,-8.50042480",
+        "ville": "El jadida",
+        "telephone": "0523 35 53 64"
+    },
+    {
+        "name": "Pharmacie Californie",
+        "quartier": "El Jadida",
+        "status": "nuit",
+        "address": "7, lotiss. Al Massira, av. Al Massira El jadida",
+        "coordinates": "33.23369980,-8.50041962",
+        "ville": "El jadida",
+        "telephone": "0670 85 50 17"
+    },
+    {
+        "name": "Pharmacie Narjiss",
+        "quartier": "El Jadida",
+        "status": "nuit",
+        "address": "147 X rue Fkih Mohamed Tetouani lotiss. Narjiss El jadida",
+        "coordinates": "33.25113298,-8.52401765",
+        "ville": "El jadida",
+        "telephone": "0523 39 01 22"
+    },
+    {
+        "name": "Pharmacie AlMostakbal",
+        "quartier": "El Jadida",
+        "status": "nuit",
+        "address": "51 hay Pam n°1 Had Ouled Fraj EL JADIDA",
+        "coordinates": "33.230838,-8.502491",
+        "ville": "EL JADIDA",
+        "telephone": "0664 12 54 01"
+    },
+    {
+        "name": "Pharmacie Oscar",
+        "quartier": "El JadidaEl Jadida",
+        "status": "nuit",
+        "address": "23 bd Mohammed VI El jadida",
+        "coordinates": "33.24980000,-8.50005000",
+        "ville": "El jadida",
+        "telephone": "0523 35 12 35"
+    },
+    {
+        "name": "Pharmacie Achour",
+        "quartier": "El Jadida",
+        "status": "nuit",
+        "address": "bd Abdelhamid Bnou Badis El jadida",
+        "coordinates": "33.23369980,-8.50041962",
+        "ville": "El jadida",
+        "telephone": "0523 36 16 65"
+    },
+    {
+        "name": "Pharmacie Lafrique",
+        "quartier": "El Jadida",
+        "status": "nuit",
+        "address": "11 Extension Annakhil centre commercial Al Albabe EL JADIDA",
+        "coordinates": "33.57690430,-7.61850929",
+        "ville": "EL JADIDA",
+        "telephone": "0523 37 85 28"
+    },
+    {
+        "name": "Pharmacie Idham",
+        "quartier": "Mohammedia",
+        "status": "nuit",
+        "address": "77, lotiss. riad essalam Mohammedia",
+        "coordinates": "33.70004540,-7.36486650",
+        "ville": "Mohammedia",
+        "telephone": "0523 30 00 02"
+    },
+    {
+        "name": "Pharmacie Al Fajr",
+        "quartier": "El AliaMohammedia",
+        "status": "nuit",
+        "address": "11, bd riad, lotiss. al fajr Mohammedia",
+        "coordinates": "33.69135920,-7.39640480",
+        "ville": "Mohammedia",
+        "telephone": "0523 28 06 01"
+    },
+    {
+        "name": "Pharmacie El Joulane",
+        "quartier": "El AliaMohammedia",
+        "status": "nuit",
+        "address": "860, bd palestine Mohammedia",
+        "coordinates": "33.69211870,-7.38677280",
+        "ville": "Mohammedia",
+        "telephone": "0523 28 38 27"
+    },
+    {
+        "name": "Pharmacie Mesbahiate",
+        "quartier": "El AliaMohammedia",
+        "status": "nuit",
+        "address": "13, bd kadi tazi, hassania 1, 28830, mohammedia 28830",
+        "coordinates": "33.67474100,-7.39844810",
+        "ville": "Mohammedia",
+        "telephone": "0523 28 15 61"
+    },
+    {
+        "name": "Pharmacie Radia",
+        "quartier": "Mohammedia",
+        "status": "nuit",
+        "address": "2 rue de souss Mohammedia",
+        "coordinates": "33.70071190,-7.38458240",
+        "ville": "Mohammedia",
+        "telephone": "0523 32 22 77"
+    },
+    {
+        "name": "Pharmacie Des Eucalyptus",
+        "quartier": "Hay El WafaMohammedia",
+        "status": "nuit",
+        "address": "242 rue el jahid et ibn abi zaraa lot. wafa Mohammedia",
+        "coordinates": "33.69752070,-7.39754020",
+        "ville": "Mohammedia",
+        "telephone": "0523 30 12 26"
+    },
+    {
+        "name": "Pharmacie Ibn Nafis",
+        "quartier": "El AliaMohammedia",
+        "status": "nuit",
+        "address": "33 bloc 'b' bd monastir Mohammedia",
+        "coordinates": "33.68992360,-7.39310880",
+        "ville": "Mohammedia",
+        "telephone": "0523 30 36 36"
+    },
+    {
+        "name": "Pharmacie Hagounia",
+        "quartier": "InezganeInezgane",
+        "status": "nuit",
+        "address": "1 av mokhtar essoussi imm. hagounia INEZGANE",
+        "coordinates": "30.35770035,-9.53810978",
+        "ville": "INEZGANE",
+        "telephone": "0528 83 21 61"
+    },
+    {
+        "name": "Pharmacie L'unité",
+        "quartier": "TarrastInezgane",
+        "status": "nuit",
+        "address": "bd moulay ali cherif tarrast INEZGANE",
+        "coordinates": "30.35630035,-9.54592991",
+        "ville": "INEZGANE",
+        "telephone": "0527 88 07 65"
+    },
+    {
+        "name": "Pharmacie Bouzgar",
+        "quartier": "JorfInezgane",
+        "status": "nuit",
+        "address": "bouzgar , rue 640 n°4 Inezgane",
+        "coordinates": "30.3562929,-9.5459347",
+        "ville": "Inezgane",
+        "telephone": "0525 35 12 26"
+    },
+    {
+        "name": "Pharmacie AlMassira",
+        "quartier": "InezganeInezgane",
+        "status": "nuit",
+        "address": "95 av. mohammed v Inezgane",
+        "coordinates": "30.37190070,-9.53152110",
+        "ville": "Inezgane",
+        "telephone": "0528 83 44 20"
+    },
+    {
+        "name": "Pharmacie de la Gare",
+        "quartier": "Ville nouvelleKenitra",
+        "status": "garde 24h",
+        "address": "162 bd Mohamed Diouri Kenitra",
+        "coordinates": "34.25453333333,-6.582566666667",
+        "ville": "Kenitra",
+        "telephone": "0537 37 61 75"
+    },
+    {
+        "name": "Pharmacie des Résidences",
+        "quartier": "Ouled oujihKenitra",
+        "status": "garde 24h",
+        "address": "hay Ouled Oujih, Ryad Maâmora, imm.A n°1 Kenitra",
+        "coordinates": "34.26459885,-6.57016993",
+        "ville": "Kenitra",
+        "telephone": "0537 35 25 57"
+    },
+    {
+        "name": "Pharmacie Al Khabbazat Populaire",
+        "quartier": "MedinaKenitra",
+        "status": "garde 24h",
+        "address": "33 rue John Kennedy Kenitra",
+        "coordinates": "34.26463680,-6.56777304",
+        "ville": "Kenitra",
+        "telephone": "0537 36 59 23"
+    },
+    {
+        "name": "Pharmacie Amine",
+        "quartier": "Bir ramiKenitra",
+        "status": "garde 24h",
+        "address": "hay Al Maghrib Al Arabi A2 n°414 Bir Rami Kenitra",
+        "coordinates": "34.24322875,-6.61316989",
+        "ville": "Kenitra",
+        "telephone": "0534 54 93 17"
+    },
+    {
+        "name": "Pharmacie Badr",
+        "quartier": "SakniaKenitra",
+        "status": "garde 24h",
+        "address": "3 bd Massira El Khadra Kenitra",
+        "coordinates": "34.24898679,-6.55489890",
+        "ville": "Kenitra",
+        "telephone": "0537 38 01 41"
+    },
+    {
+        "name": "Pharmacie Abi",
+        "quartier": "TikiouineTikiouine",
+        "status": "nuit",
+        "address": "hay zaitoune , bloc d n°11 Tikiouine",
+        "coordinates": "30.37874220,-9.50476970",
+        "ville": "Tikiouine",
+        "telephone": "0528 28 54 75"
+    },
+    {
+        "name": "Pharmacie Assaka",
+        "quartier": "TikiouineTikiouine",
+        "status": "nuit",
+        "address": "assaka , bloc a n°149 Tikiouine",
+        "coordinates": "30.37874220,-9.50476970",
+        "ville": "Tikiouine",
+        "telephone": "0528 28 82 11"
+    },
+    {
+        "name": "Pharmacie Al Hizame",
+        "quartier": "Ouarzazate",
+        "status": "nuit",
+        "address": "77 av. My Abdellah Ouarzazate",
+        "coordinates": "30.92745000,-6.926833333333",
+        "ville": "Ouarzazate",
+        "telephone": "0524 88 80 81"
+    },
+    {
+        "name": "Pharmacie Principale",
+        "quartier": "Ouarzazate",
+        "status": "nuit",
+        "address": "129 lotiss. du centre Ouarzazate",
+        "coordinates": "30.92278333333,-6.91915000",
+        "ville": "Ouarzazate",
+        "telephone": "0524 88 88 37"
+    },
+    {
+        "name": "Pharmacie Al Maghreb Al Arabi",
+        "quartier": "Ouarzazate",
+        "status": "nuit",
+        "address": "1398 bd Al Maghrib Al Arabi cité Al Wahda Ouarzazate",
+        "coordinates": "30.92816666667,-6.89940000",
+        "ville": "Ouarzazate",
+        "telephone": "0524 88 83 55"
+    },
+    {
+        "name": "Pharmacie Annassiha",
+        "quartier": "Oulad MtaaTemara",
+        "status": "nuit",
+        "address": "603 s1 lot b riad ouled mtaâ témara Temara",
+        "coordinates": "33.91669846,-6.90000010",
+        "ville": "Temara",
+        "telephone": "0537 56 08 66"
+    },
+    {
+        "name": "Pharmacie Les Roches Blanches",
+        "quartier": "HarhouraTemara",
+        "status": "garde 24h",
+        "address": "av moulay abdellah, temara plage (casino)",
+        "coordinates": "33.91669846,-6.90000010",
+        "ville": "Temara",
+        "telephone": "0537 74 47 07"
+    },
+    {
+        "name": "Pharmacie Al Mamoune",
+        "quartier": "El Guich OudayaTemara",
+        "status": "nuit",
+        "address": "rue al anisse, guich loudaya Temara",
+        "coordinates": "33.91716600,-6.92380400",
+        "ville": "Temara",
+        "telephone": "0537 56 03 15"
+    },
+    {
+        "name": "Pharmacie La Source",
+        "quartier": "El MassiraTemara",
+        "status": "garde 24h",
+        "address": "1 lotissement sapeur pompier masjid elikhaa massira 1 - Temara",
+        "coordinates": "33.91669846,-6.90000010",
+        "ville": "Temara",
+        "telephone": "0537 60 47 78"
+    },
+    {
+        "name": "Pharmacie Nahda Temara",
+        "quartier": "CentreTemara",
+        "status": "garde 24h",
+        "address": "lot ennassim n 4 av, mohamed zertktouni hay nahda 2 Temara",
+        "coordinates": "33.91716600,-6.92380400",
+        "ville": "Temara",
+        "telephone": "0537 60 80 08"
+    },
+    {
+        "name": "Pharmacie Berrada",
+        "quartier": "Ait MelloulAit Melloul",
+        "status": "nuit",
+        "address": "q. mly omar , bloc 8 n°137 AIT MELLOUL",
+        "coordinates": "30.33329964,-9.48332977",
+        "ville": "AIT MELLOUL",
+        "telephone": "0528 24 24 19"
+    },
+    {
+        "name": "Pharmacie de la santé",
+        "quartier": "Ait Melloul",
+        "status": "nuit",
+        "address": "rte biougra AIT MELLOUL",
+        "coordinates": "30.34466667,-9.49978333",
+        "ville": "AIT MELLOUL",
+        "telephone": "0528 24 25 51"
+    },
+    {
+        "name": "Pharmacie Lmima",
+        "quartier": "Ait Melloul",
+        "status": "nuit",
+        "address": "lot 59, al moussaoui Ait melloul",
+        "coordinates": "30.33547400,-9.49547300",
+        "ville": "Ait melloul",
+        "telephone": "0528 24 18 18"
+    },
+    {
+        "name": "Pharmacie Boujir",
+        "quartier": "Berkane",
+        "status": "garde 24h",
+        "address": "210 bd Mohammed V Berkane",
+        "coordinates": "34.92831647,-2.32640050",
+        "ville": "Berkane",
+        "telephone": "0536 25 50 76"
+    },
+    {
+        "name": "Pharmacie les Orangers",
+        "quartier": "Berkane",
+        "status": "garde 24h",
+        "address": "Rte principale d'Oujda Marbouha Berkane",
+        "coordinates": "34.92880000,-2.322166666667",
+        "ville": "Berkane",
+        "telephone": "0536 61 66 61"
+    },
+    {
+        "name": "Pharmacie Andalous",
+        "quartier": "Berkane",
+        "status": "garde 24h",
+        "address": "rue Zerhoun ang. rue Béni Znassen Berkane",
+        "coordinates": "34.91980000,-2.323616666667",
+        "ville": "Berkane",
+        "telephone": "0536 61 35 47"
+    },
+    {
+        "name": "Pharmacie Al Koubra",
+        "quartier": "Ben Guerir",
+        "status": "nuit",
+        "address": "douar jdid, près du souk hebdomadaire Ben Guerir",
+        "coordinates": "32.89682960,-8.32549240",
+        "ville": "Ben Guerir",
+        "telephone": "0524 32 36 13"
+    },
+    {
+        "name": "Pharmacie Al Wahda",
+        "quartier": "Ben Guerir",
+        "status": "nuit",
+        "address": "bd principale, douar jdid , près du souk al karama, près du banque populaire rhamna Ben Guerir",
+        "coordinates": "32.00000000,-7.00000000",
+        "ville": "Ben Guerir",
+        "telephone": "0524 31 71 12"
+    },
+    {
+        "name": "Pharmacie Ait Madi",
+        "quartier": "Ben Guerir",
+        "status": "nuit",
+        "address": "hay amal près de offpt et snack pacha Ben Guerir",
+        "coordinates": "32.23903400,-7.95813100",
+        "ville": "Ben Guerir",
+        "telephone": "0524 22 26 86"
+    },
+    {
+        "name": "Pharmacie ElMoustachfa",
+        "quartier": "Al HoceimaAl Hoceima",
+        "status": "nuit",
+        "address": "89 av. AlIskandaria Al hoceima",
+        "coordinates": "35.24083333333,-3.93820000",
+        "ville": "Al hoceima",
+        "telephone": "0539 98 11 31"
+    },
+    {
+        "name": "Pharmacie Noumidia",
+        "quartier": "Al Hoceima",
+        "status": "garde 24h",
+        "address": "57 rue Abdellah BenYacine Al hoceima",
+        "coordinates": "35.23898333333,-3.92740000",
+        "ville": "Al hoceima",
+        "telephone": "0539 98 06 45"
+    },
+    {
+        "name": "Pharmacie Ainachi",
+        "quartier": "El Kelaa Des Sraghna",
+        "status": "nuit",
+        "address": "Façade ElMers n°77 El kelaa des sraghna",
+        "coordinates": "32.05565000,-7.39380000",
+        "ville": "El kelaa des sraghna",
+        "telephone": "0524 22 01 62"
+    },
+    {
+        "name": "Pharmacie ElMourakkab",
+        "quartier": "El Kelaa Des Sraghna",
+        "status": "garde 24h",
+        "address": "Pôle Socio-économique El kelaa des sraghna",
+        "coordinates": "32.05429840,-7.40676022",
+        "ville": "El kelaa des sraghna",
+        "telephone": "0524 41 04 80"
+    },
+    {
+        "name": "Pharmacie Ennour",
+        "quartier": "El Kelaa Des Sraghna",
+        "status": "garde 24h",
+        "address": "1684, bloc Nakhla 1 El kelaa des sraghna",
+        "coordinates": "32.05429840,-7.40676022",
+        "ville": "El kelaa des sraghna",
+        "telephone": "0524 41 27 27"
+    },
+    {
+        "name": "Pharmacie Bin Jradi",
+        "quartier": "Taza",
+        "status": "nuit",
+        "address": "26 rue Hassan Ben Hamouch Zekriti TAZA",
+        "coordinates": "34.22566666667,-4.01110000",
+        "ville": "TAZA",
+        "telephone": "0535 28 13 06"
+    },
+    {
+        "name": "Pharmacie ElAmal",
+        "quartier": "TazaTaza",
+        "status": "nuit",
+        "address": "quartier Aviation bloc 3 n°75 TAZA",
+        "coordinates": "34.22163333333,-4.00330000",
+        "ville": "TAZA",
+        "telephone": "0535 67 48 04"
+    },
+    {
+        "name": "Pharmacie Al Ichrak",
+        "quartier": "Taza",
+        "status": "nuit",
+        "address": "291 hay Al Ichrak lotiss. Amharef hay Hassani Taza",
+        "coordinates": "34.21897500,-4.00574500",
+        "ville": "Taza",
+        "telephone": "0535 28 13 72"
+    },
+    {
+        "name": "Pharmacie AlBahra",
+        "quartier": "Taza",
+        "status": "nuit",
+        "address": "2 hay Essalam rte. de Fès TAZA",
+        "coordinates": "34.22976600,-4.03238800",
+        "ville": "TAZA",
+        "telephone": "0535 67 31 37"
+    },
+    {
+        "name": "Pharmacie Al Mountazah",
+        "quartier": "Errachidia",
+        "status": "nuit",
+        "address": "528 x lotiss. oued eddahab Errachidia",
+        "coordinates": "31.92908900,-4.43408070",
+        "ville": "Errachidia",
+        "telephone": "0535 79 17 05"
+    },
+    {
+        "name": "Pharmacie Al Mountazah",
+        "quartier": "Errachidia",
+        "status": "nuit",
+        "address": "528 x lotiss. oued eddahab Errachidia",
+        "coordinates": "31.92908900,-4.43408070",
+        "ville": "Errachidia",
+        "telephone": "0535 79 17 05"
+    },
+    {
+        "name": "Pharmacie Ennakhil",
+        "quartier": "Errachidia",
+        "status": "nuit",
+        "address": "95 bd al alaouiyine al mouhit ERRACHIDIA",
+        "coordinates": "31.91670036,-4.41666985",
+        "ville": "ERRACHIDIA",
+        "telephone": "0535 57 18 98"
+    },
+    {
+        "name": "Pharmacie Ibn Rochd",
+        "quartier": "Errachidia",
+        "status": "nuit",
+        "address": "2 ain al aati 2, devant l'université ERRACHIDIA",
+        "coordinates": "31.91670036,-4.41666985",
+        "ville": "ERRACHIDIA",
+        "telephone": "0535 57 38 39"
+    },
+    {
+        "name": "Pharmacie Ibn Rochd",
+        "quartier": "Errachidia",
+        "status": "nuit",
+        "address": "2, Ain Al Aati 2 Errachidia",
+        "coordinates": "31.92910004,-4.43408012",
+        "ville": "Errachidia",
+        "telephone": "0535 57 38 39"
+    },
+    {
+        "name": "Pharmacie Ennakhil",
+        "quartier": "Errachidia",
+        "status": "nuit",
+        "address": "95 bd Al Alaouiyine Al Mouhit Errachidia",
+        "coordinates": "31.92955112,-4.43380927",
+        "ville": "Errachidia",
+        "telephone": "0535 57 18 98"
+    },
+    {
+        "name": "Pharmacie Mly Ali Cherif",
+        "quartier": "Errachidia",
+        "status": "nuit",
+        "address": "av al massira, devant hopital my ali cherif ERRACHIDIA",
+        "coordinates": "31.91670036,-4.41666985",
+        "ville": "ERRACHIDIA",
+        "telephone": "0535 57 08 52"
+    },
+    {
+        "name": "Pharmacie Mly Ali Cherif",
+        "quartier": "Errachidia",
+        "status": "nuit",
+        "address": "av Al Massira Errachidia",
+        "coordinates": "33.85683800,-5.52849300",
+        "ville": "Errachidia",
+        "telephone": "0535 57 08 52"
+    },
+    {
+        "name": "Pharmacie Faculté des Sciences",
+        "quartier": "Tetouan",
+        "status": "nuit",
+        "address": "227, av. Hajeb , Mhanech II Tetouan",
+        "coordinates": "35.57020187,-5.37427998",
+        "ville": "Tetouan",
+        "telephone": "0539 97 00 20"
+    },
+    {
+        "name": "Pharmacie 9 Avril",
+        "quartier": "Tetouan",
+        "status": "nuit",
+        "address": "70 av 9 Avril hay Al Matar Tetouan",
+        "coordinates": "35.59436666667,-5.336916666667",
+        "ville": "Tetouan",
+        "telephone": "0539 99 34 16"
+    },
+    {
+        "name": "Pharmacie Ibn Nafiss",
+        "quartier": "Chefchaouen",
+        "status": "nuit",
+        "address": "Unnamed Road Chefchaouen",
+        "coordinates": "35.17008320,-5.27665830",
+        "ville": "Chefchaouen",
+        "telephone": "0621 00 91 68"
+    },
+    {
+        "name": "Pharmacie la Santé",
+        "quartier": "Chefchaouen",
+        "status": "nuit",
+        "address": "av. Allal Ben Abdellah , hay Alkharazine Chefchaouen",
+        "coordinates": "35.17010117,-5.27665997",
+        "ville": "Chefchaouen",
+        "telephone": "0539 98 91 84"
+    },
+    {
+        "name": "Pharmacie Assalam",
+        "quartier": "Chefchaouen",
+        "status": "nuit",
+        "address": "av Essayeda AlHorra Chefchaouen",
+        "coordinates": "35.16843333333,-5.263333333333",
+        "ville": "Chefchaouen",
+        "telephone": "0539 98 81 95"
+    },
+    {
+        "name": "Pharmacie La Province",
+        "quartier": "Chefchaouen",
+        "status": "nuit",
+        "address": "av La Marche Verte , Quartier Administratif Chefchaouen",
+        "coordinates": "35.17010117,-5.27665997",
+        "ville": "Chefchaouen",
+        "telephone": "0539 88 32 50"
+    },
+    {
+        "name": "Pharmacie Al Amal",
+        "quartier": "Bouznika",
+        "status": "garde 24h",
+        "address": "59 av. Bir Anzarane Bouznika",
+        "coordinates": "33.76836666667,-7.15075000",
+        "ville": "Bouznika",
+        "telephone": "0537 74 59 90"
+    },
+    {
+        "name": "Pharmacie Oulaya",
+        "quartier": "Bouznika",
+        "status": "nuit",
+        "address": "891 hay El Wouroud 1 Bouznika",
+        "coordinates": "33.76799400,-7.15972600",
+        "ville": "Bouznika",
+        "telephone": "0537 40 90 76"
+    },
+    {
+        "name": "Pharmacie El Chouhada",
+        "quartier": "SelouaneSelouane",
+        "status": "garde 24h",
+        "address": "hay ElJouhara , n°73 Selouane",
+        "coordinates": "35.07279968,-2.94172001",
+        "ville": "Selouane",
+        "telephone": "0536 60 92 53"
+    },
+    {
+        "name": "Pharmacie El Krakri",
+        "quartier": "Selouane",
+        "status": "garde 24h",
+        "address": "hay Al Wifaq - Autre ville Selouane",
+        "coordinates": "35.07748900,-2.94066100",
+        "ville": "Selouane",
+        "telephone": "0536 35 94 71"
+    },
+    {
+        "name": "Pharmacie El Khiria",
+        "quartier": "Youssoufia",
+        "status": "nuit",
+        "address": "25 rue Meknés cité Hassani YOUSSOUFIA",
+        "coordinates": "32.24580002,-8.53244019",
+        "ville": "YOUSSOUFIA",
+        "telephone": "0524 64 82 16"
+    },
+    {
+        "name": "Pharmacie Bouhlal",
+        "quartier": "Ouazzane",
+        "status": "nuit",
+        "address": "10 Place de l indépendance Ouazzane",
+        "coordinates": "34.79763333333,-5.57815000",
+        "ville": "Ouazzane",
+        "telephone": "0537 90 74 69"
+    },
+    {
+        "name": "Pharmacie Manar",
+        "quartier": "Ain El Aouda",
+        "status": "nuit",
+        "address": "11850 oued Zaa Ain el aouda",
+        "coordinates": "33.80307700,-6.79413000",
+        "ville": "Ain el aouda",
+        "telephone": "0537 74 67 31"
+    },
+    {
+        "name": "Pharmacie Al Khalil",
+        "quartier": "Tiflet",
+        "status": "nuit",
+        "address": "q. Dalia Tiflet",
+        "coordinates": "33.89400900,-6.31673000",
+        "ville": "Tiflet",
+        "telephone": "0537 51 22 41"
+    },
+    {
+        "name": "Pharmacie Azur",
+        "quartier": "Dar Bouazza",
+        "status": "nuit",
+        "address": "K160 rte d'Azemmour km 16 Dar bouazza",
+        "coordinates": "33.52158310,-7.81643690",
+        "ville": "Dar bouazza",
+        "telephone": "0522 96 54 54"
+    },
+    {
+        "name": "Pharmacie Principale",
+        "quartier": "Martil",
+        "status": "nuit",
+        "address": "159 bd Mly ElHassan MARTIL",
+        "coordinates": "35.61438333333,-5.28125000",
+        "ville": "MARTIL",
+        "telephone": "0539 68 96 96"
+    },
+    {
+        "name": "Pharmacie Annour",
+        "quartier": "Martil",
+        "status": "nuit",
+        "address": "260 rte Cabo Negro MARTIL",
+        "coordinates": "35.61483333333,-5.281583333333",
+        "ville": "MARTIL",
+        "telephone": "0539 68 83 96"
+    },
+    {
+        "name": "Pharmacie Diza",
+        "quartier": "Martil",
+        "status": "nuit",
+        "address": "av. Diza Martil",
+        "coordinates": "33.57093958,-7.59690657",
+        "ville": "Martil",
+        "telephone": "0539 68 99 42"
+    },
+    {
+        "name": "Pharmacie Ouelad Hmayd",
+        "quartier": "Ksar El Kebir",
+        "status": "garde 24h",
+        "address": "rue de Brique Oulad Hmayd KSAR EL KEBIR",
+        "coordinates": "34.99919891,-5.89871979",
+        "ville": "KSAR EL KEBIR",
+        "telephone": "0539 91 84 65"
+    },
+    {
+        "name": "Pharmacie Al Hamd",
+        "quartier": "Bouskoura",
+        "status": "nuit",
+        "address": "2 z.i. Oulad Saleh BOUSKOURA",
+        "coordinates": "33.43330002,-7.63332987",
+        "ville": "BOUSKOURA",
+        "telephone": "0522 59 00 64"
+    },
+    {
+        "name": "Pharmacie Alfath",
+        "quartier": "Khénifra",
+        "status": "nuit",
+        "address": "105 rue 1 Hay Alfath KHENIFRA",
+        "coordinates": "32.94638333333,-5.68070000",
+        "ville": "KHENIFRA",
+        "telephone": "0535 38 25 52"
+    },
+    {
+        "name": "Pharmacie AlWarda",
+        "quartier": "Tahla",
+        "status": "garde 24h",
+        "address": "av. Atlas Tahla",
+        "coordinates": "34.04984900,-4.42553000",
+        "ville": "Tahla",
+        "telephone": "0535 67 88 60"
+    },
+    {
+        "name": "Pharmacie Oualid",
+        "quartier": "Tahla",
+        "status": "garde 24h",
+        "address": "Hay Massira Tahla",
+        "coordinates": "34.05149900,-4.42680500",
+        "ville": "Tahla",
+        "telephone": "0535 67 87 77"
+    },
+    {
+        "name": "Pharmacie Tazaka",
+        "quartier": "Tahla",
+        "status": "garde 24h",
+        "address": "109, Bd. 3 Mars Tahla",
+        "coordinates": "34.05059814,-4.42240000",
+        "ville": "Tahla",
+        "telephone": "0535 67 86 08"
+    },
+    {
+        "name": "Pharmacie la Corniche",
+        "quartier": "BoujdourBoujdour",
+        "status": "nuit",
+        "address": "av. Mohammed V BOUJDOUR",
+        "coordinates": "26.12818333333,-14.48850000",
+        "ville": "BOUJDOUR",
+        "telephone": "0528 89 61 74"
+    },
+    {
+        "name": "Pharmacie Timahdite",
+        "quartier": "IfraneIfrane",
+        "status": "nuit",
+        "address": "Centre Timahdite IFRANE",
+        "coordinates": "33.23515501,-5.06139842",
+        "ville": "IFRANE",
+        "telephone": "0535 56 04 60"
+    },
+    {
+        "name": "Pharmacie Ilham",
+        "quartier": "Sidi Yahia Du Gharb",
+        "status": "nuit",
+        "address": "hay Wahda 1 bloc A group 5 n°2 SIDI YAHIA DU GHARB",
+        "coordinates": "34.30729000,-6.30238600",
+        "ville": "SIDI YAHIA DU GHARB",
+        "telephone": "0537 30 03 76"
+    },
+    {
+        "name": "Pharmacie Bir Anzarane",
+        "quartier": "Sidi Kacem",
+        "status": "nuit",
+        "address": "78 Rue Bir Anzarane Sidi kacem",
+        "coordinates": "34.22228333333,-5.711633333333",
+        "ville": "Sidi kacem",
+        "telephone": "0537 59 35 98"
+    },
+    {
+        "name": "Pharmacie Bouroud",
+        "quartier": "Sidi Bennour",
+        "status": "nuit",
+        "address": "705 Bd Mohamed V hay El Massira Sidi bennour",
+        "coordinates": "32.64935400,-8.43089200",
+        "ville": "Sidi bennour",
+        "telephone": "0523 36 92 10"
+    },
+    {
+        "name": "Pharmacie Imam Malek",
+        "quartier": "Asilah",
+        "status": "nuit",
+        "address": "19 av. Errachidia ASILAH",
+        "coordinates": "35.46670151,-6.01667023",
+        "ville": "ASILAH",
+        "telephone": "0539 41 80 10"
+    },
+    {
+        "name": " Pharmacie Attakafa",
+        "quartier": "Zagora",
+        "status": "nuit",
+        "address": "hay Attadamoune Ouidadiyate Zagora",
+        "coordinates": "30.34176000,-5.84140000",
+        "ville": "Zagora",
+        "telephone": "0524 84 81 75"
+    },
+    {
+        "name": "Pharmacie Israe",
+        "quartier": "Zagora",
+        "status": "nuit",
+        "address": "hay El Qods Zagora",
+        "coordinates": "34.05777440,-6.79787300",
+        "ville": "Zagora",
+        "telephone": "0524 84 88 19"
+    },
+    {
+        "name": "Pharmacie Salim",
+        "quartier": "Zagora",
+        "status": "nuit",
+        "address": "bd Mohamed V hay Zaouit El Majdoub ZAGORA",
+        "coordinates": "30.34993100,-5.83903600",
+        "ville": "ZAGORA",
+        "telephone": "0524 84 65 62"
+    },
+    {
+        "name": "Pharmacie Ibn Zahr",
+        "quartier": "Al arruiAl Arrui",
+        "status": "garde 24h",
+        "address": "95 Bd. Mohammed V Al arrui",
+        "coordinates": "35.01313333333,-2.00265000",
+        "ville": "Al arrui",
+        "telephone": "0536 36 25 63"
+    },
+    {
+        "name": "Pharmacie Provinciale",
+        "quartier": "Tinghir",
+        "status": "garde 24h",
+        "address": "1 bd Bir Anzarane TINGHIR",
+        "coordinates": "31.50981694,-5.53351941",
+        "ville": "TINGHIR",
+        "telephone": "0524 83 41 22"
+    },
+    {
+        "name": "Pharmacie du Maroc Tichka",
+        "quartier": "Tinghir",
+        "status": "nuit",
+        "address": "377 lot. Bougafer TINGHIR",
+        "coordinates": "31.50653333333,-5.539766666667",
+        "ville": "TINGHIR",
+        "telephone": "0524 83 22 91"
+    },
+    {
+        "name": "Pharmacie Coliseo",
+        "quartier": "Larache",
+        "status": "garde 24h",
+        "address": "11 rue Caid Ahmed Riffi Larache",
+        "coordinates": "35.19496666667,-6.154216666667",
+        "ville": "Larache",
+        "telephone": "0539 91 31 43"
+    },
+    {
+        "name": "Pharmacie Al Rayan",
+        "quartier": "Larache",
+        "status": "garde 24h",
+        "address": "581 Lotissement Al Maghrib El Jadid Larache",
+        "coordinates": "35.16950000,-6.139716666667",
+        "ville": "Larache",
+        "telephone": "0539 52 17 77"
+    },
+    {
+        "name": "Pharmacie Ait Igass",
+        "quartier": "Taroudant",
+        "status": "nuit",
+        "address": "10 Souk El Aarba Oulad Berrihil TAROUDANT",
+        "coordinates": "30.54186666667,-8.720383333333",
+        "ville": "TAROUDANT",
+        "telephone": "0528 85 42 58"
+    },
+    {
+        "name": "Pharmacie ElBouchra",
+        "quartier": "BouknadelBouknadel",
+        "status": "nuit",
+        "address": "lotiss. Zerdal sect. 3 n°1031 Bouknadel",
+        "coordinates": "34.12260200,-6.73295400",
+        "ville": "Bouknadel",
+        "telephone": "0537 82 26 99"
+    },
+    {
+        "name": "Pharmacie populaire",
+        "quartier": "KhemissetKhemisset",
+        "status": "nuit",
+        "address": "147 Rue Ibnou Sina Khemisset",
+        "coordinates": "33.82810000,-6.070733333333",
+        "ville": "Khemisset",
+        "telephone": "0537 55 25 43"
+    },
+    {
+        "name": "Pharmacie Chifaa",
+        "quartier": "Souk El Arba Du Gharb",
+        "status": "nuit",
+        "address": "58 Avenue Mohamed V Souk el arba du gharb",
+        "coordinates": "34.68770000,-6.00237500",
+        "ville": "Souk el arba du gharb",
+        "telephone": "0537 90 24 71"
+    },
+    {
+        "name": "Pharmacie Dounia Al irfane",
+        "quartier": "Had Soualem",
+        "status": "nuit",
+        "address": "1 Lotiss. Al Omrane Had soualem",
+        "coordinates": "33.42874600,-7.83766300",
+        "ville": "Had soualem",
+        "telephone": "0540 15 10 34"
+    },
+    {
+        "name": "Pharmacie Ouled El Ghazi",
+        "quartier": "Sidi Slimane",
+        "status": "garde 24h",
+        "address": "10, av Zerktouni , lot. Lemhamed Sidi slimane",
+        "coordinates": "34.25989914,-5.92724991",
+        "ville": "Sidi slimane",
+        "telephone": "0537 50 58 71"
+    },
+    {
+        "name": "Pharmacie Centrale",
+        "quartier": "Fnideq",
+        "status": "nuit",
+        "address": "391 av AlMouahidine Candessa FNIDEQ",
+        "coordinates": "35.84178333333,-5.359983333333",
+        "ville": "FNIDEQ",
+        "telephone": "0539 67 76 76"
+    },
+    {
+        "name": "Pharmacie Yasmine",
+        "quartier": "Sidi BouzidSidi Bouzid",
+        "status": "nuit",
+        "address": "2 rte Principale résid. Nassim Al Bahr mag.5 Sidi bouzid",
+        "coordinates": "33.22920801,-8.54132017",
+        "ville": "Sidi bouzid",
+        "telephone": "0523 34 83 66"
+    },
+    {
+        "name": "Pharmacie Benhsain",
+        "quartier": "AzilalAzilal",
+        "status": "nuit",
+        "address": "centre Ait Attab AZILAL",
+        "coordinates": "32.11012793,-6.70849421",
+        "ville": "AZILAL",
+        "telephone": "0523 45 05 55"
+    },
+    {
+        "name": "Pharmacie Le Prince",
+        "quartier": "ZghanghanZghanghan",
+        "status": "garde 24h",
+        "address": "bd Mohammed V , Jouhara Soufla Zghanghan",
+        "coordinates": "0.00000000,0.00000000",
+        "ville": "Zghanghan",
+        "telephone": "0536 35 17 17"
+    },
+    {
+        "name": "Pharmacie la Kasbah",
+        "quartier": "Essaouira",
+        "status": "nuit",
+        "address": "14 rue Allal Ben Abdellah ESSAOUIRA",
+        "coordinates": "31.50000000,-9.76667023",
+        "ville": "ESSAOUIRA",
+        "telephone": "0524 47 51 51"
+    }
+]

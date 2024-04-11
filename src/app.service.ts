@@ -1,54 +1,119 @@
 import { Injectable } from '@nestjs/common';
 import { HttpService } from '@nestjs/axios';
-// import { Cron } from '@nestjs/schedule';
+import * as cheerio from 'cheerio';
+import axios from 'axios';
+import { Cron, CronExpression } from '@nestjs/schedule';
+
+import * as fs from 'fs';
+import { PrismaService } from './prisma/prisma.service';
+import type { Pharmacy } from '@prisma/client';
 
 @Injectable()
 export class AppService {
-  constructor(private readonly httpService: HttpService) {}
-  // private readonly logger = new Logger(AppService.name);
-  // @Cron('* * * * * *')
-  // handleCron() {
-  //   console.log('3');
-  // }
+  constructor(
+    private readonly httpService: HttpService,
+    private prismaService: PrismaService,
+  ) {}
+  @Cron(CronExpression.EVERY_DAY_AT_MIDNIGHT)
+  async scrapePharmacies() {
+    const pharmacies: Pharmacy[] = [];
 
-  // async fetchPharmaciesFromApi() {
-  //   try {
-  //     const data = await this.httpService.axiosRef.get(
-  //       'https://hncd51kk60.execute-api.us-east-1.amazonaws.com/prod/city?radius=15000&latitude=33.57048&longitude=-7.573991&city=CASABLANCA',
-  //     );
+    console.log('Veuillez patienter quelques instants...');
 
-  //     const pharmaciesCasablanca = data.data.map((pharmacie) => ({
-  //       name: pharmacie.pharmacyNameLatin.S,
-  //       city: pharmacie.cityCode.S,
-  //       street: pharmacie.addressLatin.S,
-  //       tel: pharmacie.pharmacyPhone.S,
-  //       latitude: pharmacie.latitude.N,
-  //       longitude: pharmacie.longitude.N,
-  //     }));
-  //     if (pharmaciesCasablanca.length > 0) {
-  //       console.log('Adding pharmacies to the database...');
-  //       await this.prisma.pharmacie.createMany({
-  //         data: pharmaciesCasablanca,
-  //         skipDuplicates: true,
-  //       });
-  //     } else {
-  //       console.log('No pharmacies to add.');
-  //     }
-  //   } catch (error) {
-  //     console.log(error);
-  //   }
+    const hrefFile = fs.readFileSync('href.txt', 'utf-8').split('\n');
 
-  // return;
-  // }
+    for (const ville of hrefFile) {
+      const response = await axios.get(
+        `https://www.annuaire-gratuit.ma${ville.replace('\n', '')}`,
+        {
+          headers: {
+            'User-Agent': 'Mozilla/5.0',
+          },
+        },
+      );
 
-  // async getPharmacies() {
-  //   try {
-  //     const pharnacies = await this.prisma.pharmacie.findMany();
-  //     if (pharnacies.length < 0) return;
-  //     return pharnacies;
-  //   } catch (error) {
-  //     console.log(error);
-  //   }
-  //   return;
-  // }
+      const $ = cheerio.load(response.data);
+
+      const locItems = $('li[itemtype="http://schema.org/Place"]');
+      await (async () => {
+        for (const element of locItems) {
+          const linkElement = $(element).find('a[itemprop="url"]');
+          const statusElement = $(element).find('span[class="garde_status"]');
+          const nameElement = $(element).find('h3[itemprop="name"]');
+          const quartierElement = $(element).find(
+            'span[itemprop="addressLocality"]',
+          );
+
+          const link = linkElement.attr('href');
+          const status = statusElement.text();
+          const name = nameElement.text();
+          const quartier = quartierElement.text();
+
+          const response2 = await axios.get(
+            `https://www.annuaire-gratuit.ma${link}`,
+            {
+              headers: {
+                'User-Agent': 'Mozilla/5.0',
+              },
+            },
+          );
+
+          const $2 = cheerio.load(response2.data);
+
+          const tbody = $2('tbody');
+          const rows = tbody.find('tr');
+
+          const data = {} as Pharmacy;
+          data['name'] = name;
+          data['quartier'] = quartier;
+
+          if (status === '\nOuvert toute la journée (24 heures)\n') {
+            data['status'] = 'garde 24h';
+          } else if (status === '\nGarde Jour (Ouvert entre 9h et 23h)\n') {
+            data['status'] = 'jour';
+          } else {
+            data['status'] = 'nuit';
+          }
+
+          for (const row of rows) {
+            const titleElement = $2(row).find('td[class="title_details"]');
+            const infoElement = $2(row).find('td[class="infos_details"]');
+
+            const title = titleElement.text();
+            const info = infoElement.text();
+
+            if (title === 'Adresse') {
+              const address = infoElement.find('address').text().trim();
+              const coordLink = infoElement.find('a[href]').attr('href');
+              data['address'] = address ? address : 'Non disponible';
+              data['coordinates'] = coordLink.replace(
+                'https://maps.google.com/maps?q=',
+                '',
+              );
+            } else if (title === 'Ville') {
+              const ville = info.trim();
+              data['ville'] = ville;
+            } else if (title === 'N° Téléphone') {
+              const tel = infoElement
+                .find('a[itemprop="telephone"]')
+                .text()
+                .trim();
+              data['telephone'] = tel;
+            }
+          }
+
+          pharmacies.push(data);
+        }
+      })();
+    }
+
+    fs.writeFileSync(
+      'pharmacies.json',
+      JSON.stringify(pharmacies, null, 4),
+      'utf-8',
+    );
+    await this.prismaService.pharmacy.createMany({
+      data: pharmacies as Pharmacy[],
+    });
+  }
 }

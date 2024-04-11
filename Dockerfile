@@ -12,7 +12,7 @@ RUN npm install
 COPY . .
 
 # Build the client and the server
-RUN npm run build 
+RUN npm run build:prod 
 
 
 ENV PORT=8001
