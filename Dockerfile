@@ -10,6 +10,7 @@ COPY package*.json ./
 RUN npm install
 
 COPY . .
+RUN npx prisma generate
 
 # Build the client and the server
 RUN npm run build:prod 
