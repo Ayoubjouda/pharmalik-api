@@ -6,7 +6,7 @@ on:
       - master
 jobs:
   update_vps:
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
 
     steps:
       - name: Checkout repository
