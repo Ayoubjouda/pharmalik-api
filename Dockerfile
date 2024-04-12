@@ -1,5 +1,6 @@
 FROM node:18-alpine
 # Set the working directory inside the container
+RUN npm install -g dotenv-cli
 WORKDIR /app
 
 # Copy the package.json and package-lock.json files to the working directory
