@@ -49,7 +49,7 @@ export class PharmacyService {
       const pharmacies = await this.prismaService.pharmacy.findMany();
       return pharmacies;
     } catch (error) {
-      throw error;
+      throw new Error(error.message);
     }
   }
   async findDirection(query: DirectionDto) {
