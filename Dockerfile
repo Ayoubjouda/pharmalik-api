@@ -11,7 +11,7 @@ RUN yarn install
 COPY . .
 ENV NODE_ENV=production
 
-RUN  npx prisma generate
+RUN npx prisma generate
 
 # Build the client and the server
 RUN yarn build:prod 
@@ -23,4 +23,4 @@ ENV PORT=8001
 EXPOSE 8001
 
 # Set the command to start both server and client
-CMD ["yarn",  "start:prod"]
+CMD ["yarn",  "start:migrate:prod"]
