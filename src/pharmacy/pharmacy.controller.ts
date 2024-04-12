@@ -10,4 +10,8 @@ export class PharmacyController {
   findDirection(@Query() query: DirectionDto) {
     return this.pharmacyService.findDirection(query);
   }
+  @Get()
+  getPharmacy(@Query() query: DirectionDto) {
+    return this.pharmacyService.findDirection(query);
+  }
 }

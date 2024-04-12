@@ -1,10 +1,14 @@
+import { PrismaService } from './../prisma/prisma.service';
 import { Injectable } from '@nestjs/common';
 // import { decode } from '@mapbox/polyline';
 import { ConfigService } from '@nestjs/config';
 import { DirectionDto } from './dto/pharmacy.dto';
 @Injectable()
 export class PharmacyService {
-  constructor(private configService: ConfigService) {}
+  constructor(
+    private configService: ConfigService,
+    private prismaService: PrismaService,
+  ) {}
   findAll() {
     return `This action returns all pharmacy`;
   }
@@ -40,6 +44,14 @@ export class PharmacyService {
   //     }
   //   }
   // }
+  async getPharmacys() {
+    try {
+      const pharmacies = await this.prismaService.pharmacy.findMany();
+      return pharmacies;
+    } catch (error) {
+      throw error;
+    }
+  }
   async findDirection(query: DirectionDto) {
     const { start, dest } = query;
     try {
