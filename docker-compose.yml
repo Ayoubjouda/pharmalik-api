@@ -2,10 +2,12 @@ version: "3.1"
 
 networks:
   mynetwork:
+    name: mynetwork
     driver: bridge
+    external: true
 services:
   web:
-    container_name: pharmaLik-api
+    container_name: pharmalik-api
     build: .
     restart: on-failure
     ports:

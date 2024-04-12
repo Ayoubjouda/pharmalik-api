@@ -1,5 +1,4 @@
 FROM node:18-alpine
-
 # Set the working directory inside the container
 WORKDIR /app
 
@@ -7,13 +6,15 @@ WORKDIR /app
 COPY package*.json ./
 
 # Install dependencies for server and client
-RUN npm install
+RUN yarn install
 
 COPY . .
-RUN npx prisma generate
+ENV NODE_ENV=production
+
+RUN  npx prisma generate
 
 # Build the client and the server
-RUN npm run build:prod 
+RUN yarn build:prod 
 
 
 ENV PORT=8001
@@ -22,4 +23,4 @@ ENV PORT=8001
 EXPOSE 8001
 
 # Set the command to start both server and client
-CMD ["npm", "run", "start:prod"]
+CMD ["yarn",  "start:prod"]

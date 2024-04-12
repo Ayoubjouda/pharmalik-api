@@ -12,6 +12,5 @@ export class PrismaService extends PrismaClient {
         },
       },
     });
-    console.log(configService.get('DATABASE_URL'));
   }
 }
