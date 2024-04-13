@@ -3,7 +3,6 @@ import { HttpService } from '@nestjs/axios';
 import * as cheerio from 'cheerio';
 import axios from 'axios';
 import { Cron, CronExpression } from '@nestjs/schedule';
-
 import * as fs from 'fs';
 import { PrismaService } from './prisma/prisma.service';
 import type { Pharmacy } from '@prisma/client';
@@ -126,7 +125,7 @@ export class AppService {
     if (pharmacies.length === 0) {
       console.log('Aucune pharmacie trouvée');
       return;
-    } else if (pharmacies.length === 1) {
+    } else if (pharmacies.length > 1) {
       await this.prismaService.pharmacy.deleteMany();
       await this.prismaService.pharmacy.createMany({
         data: pharmacies as Pharmacy[],
