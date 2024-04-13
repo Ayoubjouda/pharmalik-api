@@ -3,7 +3,6 @@ import { HttpService } from '@nestjs/axios';
 import * as cheerio from 'cheerio';
 import axios from 'axios';
 import { Cron, CronExpression } from '@nestjs/schedule';
-import { convertStringToCoordinates } from 'utils/utils';
 
 import * as fs from 'fs';
 import { PrismaService } from './prisma/prisma.service';
@@ -15,8 +14,15 @@ export class AppService {
     private readonly httpService: HttpService,
     private prismaService: PrismaService,
   ) {}
+
   @Cron(CronExpression.EVERY_DAY_AT_MIDNIGHT)
   async scrapePharmacies() {
+    function convertStringToCoordinates(coordString: string): [number, number] {
+      const [latStr, lonStr] = coordString.split(',');
+      const lat = parseFloat(latStr);
+      const lon = parseFloat(lonStr);
+      return [lat, lon];
+    }
     const pharmacies: Pharmacy[] = [];
 
     console.log('Veuillez patienter quelques instants...');
