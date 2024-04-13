@@ -12,5 +12,6 @@ services:
     restart: on-failure
     ports:
       - 8001:8001
+      - 5555:5555
     networks:
       - mynetwork
