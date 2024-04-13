@@ -3,6 +3,7 @@ import { HttpService } from '@nestjs/axios';
 import * as cheerio from 'cheerio';
 import axios from 'axios';
 import { Cron, CronExpression } from '@nestjs/schedule';
+import { convertStringToCoordinates } from 'utils/utils';
 
 import * as fs from 'fs';
 import { PrismaService } from './prisma/prisma.service';
@@ -86,10 +87,14 @@ export class AppService {
               const address = infoElement.find('address').text().trim();
               const coordLink = infoElement.find('a[href]').attr('href');
               data['address'] = address ? address : 'Non disponible';
-              data['coordinates'] = coordLink.replace(
+              const cords = coordLink.replace(
                 'https://maps.google.com/maps?q=',
                 '',
               );
+              const [latitude, longitude] = convertStringToCoordinates(cords);
+
+              data['latitude'] = latitude;
+              data['longitude'] = longitude;
             } else if (title === 'Ville') {
               const ville = info.trim();
               data['ville'] = ville;
@@ -112,8 +117,15 @@ export class AppService {
       JSON.stringify(pharmacies, null, 4),
       'utf-8',
     );
-    await this.prismaService.pharmacy.createMany({
-      data: pharmacies as Pharmacy[],
-    });
+    if (pharmacies.length === 0) {
+      console.log('Aucune pharmacie trouvée');
+      return;
+    } else if (pharmacies.length === 1) {
+      await this.prismaService.pharmacy.deleteMany();
+      await this.prismaService.pharmacy.createMany({
+        data: pharmacies as Pharmacy[],
+      });
+      console.log('scraping Done');
+    }
   }
 }

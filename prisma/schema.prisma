@@ -14,12 +14,13 @@ datasource db {
 }
 
 model Pharmacy {
-  id          String  @id @default(uuid())
-  name        String
-  quartier    String?
-  status      String?
-  address     String? @db.VarChar(240)
-  coordinates String?
-  ville       String?
-  telephone   String?
+  id        String  @id @default(uuid())
+  name      String
+  quartier  String?
+  status    String?
+  address   String? @db.VarChar(240)
+  latitude  Float?
+  longitude Float?
+  ville     String?
+  telephone String?
 }
