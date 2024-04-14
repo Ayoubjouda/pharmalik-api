@@ -93,7 +93,7 @@ export class AppService {
               data['longitude'] = longitude;
             } else if (title === 'Ville') {
               const ville = info.trim();
-              data['ville'] = ville;
+              data['ville'] = ville.toLowerCase();
             } else if (title === 'N° Téléphone') {
               const tel = infoElement
                 .find('a[itemprop="telephone"]')
