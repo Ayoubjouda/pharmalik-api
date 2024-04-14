@@ -14,7 +14,7 @@
     "start:debug": "nest start --debug --watch",
     "start:prod": "NODE_ENV=production node dist/main",
     "start:prisma": "npx dotenv -e .env.production -- prisma studio",
-    "start:migrate:prod": "npx dotenv -e .env.production --  prisma migrate dev && yarn run start:prod & yarn start:prisma",
+    "start:migrate:prod": "npx dotenv -e .env.production --  prisma migrate deploy && yarn run start:prod & yarn start:prisma",
     "lint": "eslint \"{src,apps,libs,test}/**/*.ts\" --fix",
     "test": "jest",
     "test:watch": "jest --watch",
