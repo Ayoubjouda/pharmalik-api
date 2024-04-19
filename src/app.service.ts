@@ -98,7 +98,9 @@ export class AppService {
               const tel = infoElement
                 .find('a[itemprop="telephone"]')
                 .text()
-                .trim();
+                .trim()
+                .split(' ')
+                .join('');
               data['telephone'] = tel;
             }
           }
