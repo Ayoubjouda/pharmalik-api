@@ -62,15 +62,23 @@ export class AppService {
           const status = statusElement.text();
           const name = nameElement.text();
           const quartier = quartierElement.text();
-
-          const response2 = await axios.get(
-            `https://www.annuaire-gratuit.ma${link}`,
-            {
-              headers: {
-                'User-Agent': 'Mozilla/5.0',
+          console.log(link);
+          let response2;
+          try {
+            response2 = await axios.get(
+              `https://www.annuaire-gratuit.ma${link}`,
+              {
+                headers: {
+                  'User-Agent': 'Mozilla/5.0',
+                },
               },
-            },
-          );
+            );
+          } catch (error) {
+            console.error(
+              `Failed to fetch details for ${link}: ${error.message}`,
+            );
+            continue; // Skip this iteration and proceed to the next one
+          }
 
           const $2 = cheerio.load(response2.data);
 
