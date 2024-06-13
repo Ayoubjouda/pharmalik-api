@@ -11,9 +11,26 @@ import { convertStringToCoordinates } from './common/geometry/geometry.helper';
 export class AppService {
   constructor(private prismaService: PrismaService) {}
 
-  @Cron(CronExpression.EVERY_DAY_AT_MIDNIGHT)
+  @Cron(CronExpression.EVERY_DAY_AT_6PM)
   async scrapePharmacies() {
     const pharmacies: Pharmacy[] = [];
+    function filterUniquePharmacies(pharmacies: Pharmacy[]): Pharmacy[] {
+      const uniquePharmacies: Pharmacy[] = [];
+      const seenCoordinates = new Set<string>();
+
+      pharmacies.forEach((pharmacy) => {
+        const { latitude, longitude } = pharmacy;
+        if (latitude !== null && longitude !== null) {
+          const coordinateKey = `${latitude},${longitude}`;
+          if (!seenCoordinates.has(coordinateKey)) {
+            seenCoordinates.add(coordinateKey);
+            uniquePharmacies.push(pharmacy);
+          }
+        }
+      });
+
+      return uniquePharmacies;
+    }
 
     console.log('Veuillez patienter quelques instants...');
 
@@ -65,10 +82,10 @@ export class AppService {
           data['quartier'] = quartier;
 
           if (status === '\nOuvert toute la journée (24 heures)\n') {
-            data['status'] = 'garde 24h';
-          } else if (status === '\nGarde Jour (Ouvert entre 9h et 23h)\n') {
+            data['status'] = '24h';
+          } else if (status === '\nOuvert en ce moment\n') {
             data['status'] = 'jour';
-          } else {
+          } else if (status === '\nGarde Nuit (Ouvert de 20h à 9h)\n') {
             data['status'] = 'nuit';
           }
 
@@ -110,18 +127,20 @@ export class AppService {
       })();
     }
 
-    fs.writeFileSync(
-      'pharmacies.json',
-      JSON.stringify(pharmacies, null, 4),
-      'utf-8',
-    );
-    if (pharmacies.length === 0) {
+    // fs.writeFileSync(
+    //   'pharmacies.json',
+    //   JSON.stringify(pharmacies, null, 4),
+    //   'utf-8',
+    // );
+    const uniquePharmacies = filterUniquePharmacies(pharmacies);
+
+    if (uniquePharmacies.length === 0) {
       console.log('Aucune pharmacie trouvée');
       return;
-    } else if (pharmacies.length > 1) {
+    } else if (uniquePharmacies.length > 1) {
       await this.prismaService.pharmacy.deleteMany();
       await this.prismaService.pharmacy.createMany({
-        data: pharmacies as Pharmacy[],
+        data: uniquePharmacies as Pharmacy[],
       });
       console.log('scraping Done');
     }
