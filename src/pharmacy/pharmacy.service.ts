@@ -15,45 +15,22 @@ export class PharmacyService {
       Number(query.longitude),
       query.radius,
     );
-    let args = {};
-    if (query.filter) {
-      args = {
-        where: {
-          latitude: {
-            gte: lat[0],
-            lte: lat[1],
-          },
-          AND: {
-            longitude: {
-              gte: lon[0],
-              lte: lon[1],
-            },
-          },
+    const prismaArgs = {
+      where: {
+        latitude: {
+          gte: lat[0],
+          lte: lat[1],
         },
-        AND: {
-          status: {
-            equals: query.filter,
-          },
+        longitude: {
+          gte: lon[0],
+          lte: lon[1],
         },
-      };
-    } else {
-      args = {
-        where: {
-          latitude: {
-            gte: lat[0],
-            lte: lat[1],
-          },
-          AND: {
-            longitude: {
-              gte: lon[0],
-              lte: lon[1],
-            },
-          },
-        },
-      };
-    }
+        // Conditionally add status filter
+        ...(query.filter ? { status: { equals: query.filter } } : {}),
+      },
+    };
     try {
-      return await this.prismaService.pharmacy.findMany(args);
+      return await this.prismaService.pharmacy.findMany(prismaArgs);
     } catch (error) {
       throw new Error(error.message);
     }

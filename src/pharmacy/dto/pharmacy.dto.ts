@@ -1,4 +1,4 @@
-import { IsNotEmpty } from 'class-validator';
+import { IsNotEmpty, IsOptional } from 'class-validator';
 
 export class DirectionDto {
   @IsNotEmpty()
@@ -16,6 +16,6 @@ export class CoordinatesDto {
   longitude: number;
   @IsNotEmpty()
   radius: number;
-
+  @IsOptional()
   filter: string;
 }
