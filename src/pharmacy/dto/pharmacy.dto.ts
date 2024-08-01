@@ -5,6 +5,8 @@ export class DirectionDto {
   start: string;
   @IsNotEmpty()
   dest: string;
+  @IsNotEmpty()
+  pharmacyId: string;
 }
 
 export class CoordinatesDto {

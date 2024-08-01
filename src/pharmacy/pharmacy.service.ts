@@ -2,6 +2,8 @@ import { PrismaService } from './../prisma/prisma.service';
 import { Injectable } from '@nestjs/common';
 import { CoordinatesDto, DirectionDto } from './dto/pharmacy.dto';
 import { calculateBoundary } from 'src/common/geometry/geometry.helper';
+import e from 'express';
+import { Pharmacy } from '@prisma/client';
 
 @Injectable()
 export class PharmacyService {
@@ -45,8 +47,8 @@ export class PharmacyService {
   }
 
   // Get the direction between two points
-  async findDirection(query: DirectionDto) {
-    const { start, dest } = query;
+  async findDirection(query: DirectionDto): Promise<selectedPharmacy> {
+    const { start, dest, pharmacyId } = query;
     try {
       const resp = await fetch(
         `http://ors-app:8080/ors/v2/directions/driving-car?start=${start}&end=${dest}`,
@@ -64,12 +66,26 @@ export class PharmacyService {
         };
       });
 
+      const pharmacy = await this.prismaService.pharmacy.findUnique({
+        where: {
+          id: pharmacyId,
+        },
+      });
+      if (!pharmacy) {
+        throw new Error('Pharmacy not found');
+      }
+
       return {
+        ...pharmacy,
         coords,
         distance: respJson.features[0].properties.summary.distance,
-      };
+      } as selectedPharmacy;
     } catch (error) {
       return error;
     }
   }
 }
+type selectedPharmacy = Pharmacy & {
+  distance: number;
+  coords: number[][];
+};
