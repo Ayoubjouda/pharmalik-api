@@ -2,8 +2,9 @@ import { PrismaService } from './../prisma/prisma.service';
 import { Injectable } from '@nestjs/common';
 import { CoordinatesDto, DirectionDto } from './dto/pharmacy.dto';
 import { calculateBoundary } from 'src/common/geometry/geometry.helper';
-import e from 'express';
 import { Pharmacy } from '@prisma/client';
+import e from 'express';
+import { equals } from 'class-validator';
 
 @Injectable()
 export class PharmacyService {
@@ -16,9 +17,12 @@ export class PharmacyService {
       Number(query.longitude),
       query.radius,
     );
-
-    try {
-      return await this.prismaService.pharmacy.findMany({
+    let args = {};
+    if (query.filter) {
+      args = {
+        status: {
+          equals: query.filter,
+        },
         where: {
           latitude: {
             gte: lat[0],
@@ -31,7 +35,25 @@ export class PharmacyService {
             },
           },
         },
-      });
+      };
+    } else {
+      args = {
+        where: {
+          latitude: {
+            gte: lat[0],
+            lte: lat[1],
+          },
+          AND: {
+            longitude: {
+              gte: lon[0],
+              lte: lon[1],
+            },
+          },
+        },
+      };
+    }
+    try {
+      return await this.prismaService.pharmacy.findMany(args);
     } catch (error) {
       throw new Error(error.message);
     }

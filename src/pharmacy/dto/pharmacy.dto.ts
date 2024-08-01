@@ -16,4 +16,6 @@ export class CoordinatesDto {
   longitude: number;
   @IsNotEmpty()
   radius: number;
+  @IsNotEmpty()
+  filter: string;
 }
