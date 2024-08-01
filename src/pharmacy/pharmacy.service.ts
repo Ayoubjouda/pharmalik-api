@@ -3,8 +3,6 @@ import { Injectable } from '@nestjs/common';
 import { CoordinatesDto, DirectionDto } from './dto/pharmacy.dto';
 import { calculateBoundary } from 'src/common/geometry/geometry.helper';
 import { Pharmacy } from '@prisma/client';
-import e from 'express';
-import { equals } from 'class-validator';
 
 @Injectable()
 export class PharmacyService {
@@ -20,9 +18,6 @@ export class PharmacyService {
     let args = {};
     if (query.filter) {
       args = {
-        status: {
-          equals: query.filter,
-        },
         where: {
           latitude: {
             gte: lat[0],
@@ -33,6 +28,11 @@ export class PharmacyService {
               gte: lon[0],
               lte: lon[1],
             },
+          },
+        },
+        AND: {
+          status: {
+            equals: query.filter,
           },
         },
       };
